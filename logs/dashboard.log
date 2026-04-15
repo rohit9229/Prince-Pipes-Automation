@@ -1,0 +1,96 @@
+[2026-02-20 11:10:20] [INFO] [Dashboard] - === STARTED: validateDashboard ===
+[2026-02-20 11:10:51] [ERROR] [Dashboard] - === FAILED: validateDashboard | Reason: Element not clickable: AppiumBy.androidUIAutomator: new UiSelector().className("android.view.ViewGroup").instance(58) | Expected condition failed: waiting for element to be clickable: AppiumBy.androidUIAutomator: new UiSelector().className("android.v... | Screenshot: screenshots/Dashboard_validateDashboard_20260220_111050.png ===
+[2026-02-20 11:11:35] [INFO] [Dashboard] - === STARTED: validateDashboard ===
+[2026-02-20 11:14:46] [INFO] [Dashboard] - === PASSED: validateDashboard | Reason: Test passed successfully. ===
+[2026-02-20 11:48:49] [INFO] [Dashboard] - === STARTED: validateDashboard ===
+[2026-02-20 11:51:48] [INFO] [Dashboard] - === PASSED: validateDashboard | Reason: Test passed successfully. ===
+[2026-02-20 17:39:05] [INFO] [Dashboard] - === STARTED: validateDashboard ===
+[2026-04-10 17:16:36] [INFO] [Dashboard] - === STARTED: hamburgermenu ===
+[2026-04-10 17:19:47] [INFO] [Dashboard] - === PASSED: hamburgermenu | Reason: Test passed successfully. ===
+[2026-04-10 17:19:47] [INFO] [Dashboard] - === STARTED: validateDashboard ===
+[2026-04-10 17:21:29] [ERROR] [Dashboard] - === FAILED: validateDashboard | Reason: The element 'By.AndroidUiAutomator: new UiSelector().text("Dashboard")' does not exist in DOM anymore | Screenshot: screenshots/Dashboard_validateDashboard_20260410_172127.png ===
+[2026-04-15 13:48:53] [INFO] [Dashboard] - === STARTED: clickonviewlessbutton ===
+[2026-04-15 13:48:54] [ERROR] [Dashboard] - === FAILED: clickonviewlessbutton | Reason: Unresolved compilation problem:  | Screenshot: screenshots/Dashboard_clickonviewlessbutton_20260415_134853.png ===
+[2026-04-15 16:06:36] [INFO] [Dashboard] - === STARTED: verifydashboardScreen ===
+[2026-04-15 16:10:29] [INFO] [Dashboard] - === PASSED: verifydashboardScreen | Reason: Test passed successfully. ===
+[2026-04-15 16:10:29] [INFO] [Dashboard] - === STARTED: clickforqueriesbutton ===
+[2026-04-15 16:10:30] [INFO] [Dashboard] - === PASSED: clickforqueriesbutton | Reason: Test passed successfully. ===
+[2026-04-15 16:10:30] [INFO] [Dashboard] - === STARTED: clickonviewmorebutton ===
+[2026-04-15 16:10:38] [INFO] [Dashboard] - === PASSED: clickonviewmorebutton | Reason: Test passed successfully. ===
+[2026-04-15 16:10:38] [INFO] [Dashboard] - === STARTED: clickonviewlessbutton ===
+[2026-04-15 16:10:48] [INFO] [Dashboard] - === PASSED: clickonviewlessbutton | Reason: Test passed successfully. ===
+[2026-04-15 16:10:48] [INFO] [Dashboard] - === STARTED: verifygrowthsummaryscreen ===
+[2026-04-15 16:19:09] [ERROR] [Dashboard] - === FAILED: verifygrowthsummaryscreen | Reason: Element not visible: AppiumBy.androidUIAutomator: new UiSelector().text("TS Enterprises") | Expected condition failed: waiting for visibility of element located by AppiumBy.androidUIAutomator: new UiSelector().text("TS Enterprises") (tried for 500 se... | Screenshot: screenshots/Dashboard_verifygrowthsummaryscreen_20260415_161909.png ===
+[2026-04-15 16:19:09] [INFO] [Dashboard] - === STARTED: clickongraphbutton ===
+[2026-04-15 16:19:10] [INFO] [Dashboard] - === PASSED: clickongraphbutton | Reason: Test passed successfully. ===
+[2026-04-15 16:19:10] [INFO] [Dashboard] - === STARTED: clickonquarterlybutton ===
+[2026-04-15 16:19:12] [INFO] [Dashboard] - === PASSED: clickonquarterlybutton | Reason: Test passed successfully. ===
+[2026-04-15 16:19:12] [INFO] [Dashboard] - === STARTED: clickonmonthlybutton ===
+[2026-04-15 16:19:12] [INFO] [Dashboard] - === PASSED: clickonmonthlybutton | Reason: Test passed successfully. ===
+[2026-04-15 16:19:12] [INFO] [Dashboard] - === STARTED: verifyproductcategoryscreen ===
+[2026-04-15 16:19:25] [INFO] [Dashboard] - === PASSED: verifyproductcategoryscreen | Reason: Test passed successfully. ===
+[2026-04-15 16:19:25] [INFO] [Dashboard] - === STARTED: clickoncurrentyearbutton ===
+[2026-04-15 16:19:25] [INFO] [Dashboard] - === PASSED: clickoncurrentyearbutton | Reason: Test passed successfully. ===
+[2026-04-15 16:19:25] [INFO] [Dashboard] - === STARTED: clickonlastyearbutton ===
+[2026-04-15 16:19:25] [INFO] [Dashboard] - === PASSED: clickonlastyearbutton | Reason: Test passed successfully. ===
+[2026-04-15 16:19:25] [INFO] [Dashboard] - === STARTED: verifysalesscreen ===
+[2026-04-15 16:19:26] [INFO] [Dashboard] - === PASSED: verifysalesscreen | Reason: Test passed successfully. ===
+[2026-04-15 16:33:41] [INFO] [Dashboard] - === STARTED: verifydashboardScreen ===
+[2026-04-15 16:37:08] [INFO] [Dashboard] - === PASSED: verifydashboardScreen | Reason: Test passed successfully. ===
+[2026-04-15 16:37:08] [INFO] [Dashboard] - === STARTED: clickforqueriesbutton ===
+[2026-04-15 16:37:09] [INFO] [Dashboard] - === PASSED: clickforqueriesbutton | Reason: Test passed successfully. ===
+[2026-04-15 16:37:09] [INFO] [Dashboard] - === STARTED: clickonviewmorebutton ===
+[2026-04-15 16:37:16] [INFO] [Dashboard] - === PASSED: clickonviewmorebutton | Reason: Test passed successfully. ===
+[2026-04-15 16:37:16] [INFO] [Dashboard] - === STARTED: clickonviewlessbutton ===
+[2026-04-15 16:37:27] [INFO] [Dashboard] - === PASSED: clickonviewlessbutton | Reason: Test passed successfully. ===
+[2026-04-15 16:37:27] [INFO] [Dashboard] - === STARTED: verifygrowthsummaryscreen ===
+[2026-04-15 16:39:14] [INFO] [Dashboard] - === STARTED: verifydashboardScreen ===
+[2026-04-15 16:40:26] [INFO] [Dashboard] - === STARTED: verifydashboardScreen ===
+[2026-04-15 16:44:12] [INFO] [Dashboard] - === PASSED: verifydashboardScreen | Reason: Test passed successfully. ===
+[2026-04-15 16:44:12] [INFO] [Dashboard] - === STARTED: clickforqueriesbutton ===
+[2026-04-15 16:44:13] [INFO] [Dashboard] - === PASSED: clickforqueriesbutton | Reason: Test passed successfully. ===
+[2026-04-15 16:44:13] [INFO] [Dashboard] - === STARTED: clickonviewmorebutton ===
+[2026-04-15 16:44:21] [INFO] [Dashboard] - === PASSED: clickonviewmorebutton | Reason: Test passed successfully. ===
+[2026-04-15 16:44:21] [INFO] [Dashboard] - === STARTED: clickonviewlessbutton ===
+[2026-04-15 16:44:34] [INFO] [Dashboard] - === PASSED: clickonviewlessbutton | Reason: Test passed successfully. ===
+[2026-04-15 16:44:34] [INFO] [Dashboard] - === STARTED: verifygrowthsummaryscreen ===
+[2026-04-15 16:44:36] [INFO] [Dashboard] - === PASSED: verifygrowthsummaryscreen | Reason: Test passed successfully. ===
+[2026-04-15 16:44:36] [INFO] [Dashboard] - === STARTED: clickongraphbutton ===
+[2026-04-15 16:45:26] [INFO] [Dashboard] - === PASSED: clickongraphbutton | Reason: Test passed successfully. ===
+[2026-04-15 16:45:26] [INFO] [Dashboard] - === STARTED: clickonquarterlybutton ===
+[2026-04-15 16:45:35] [INFO] [Dashboard] - === PASSED: clickonquarterlybutton | Reason: Test passed successfully. ===
+[2026-04-15 16:45:35] [INFO] [Dashboard] - === STARTED: clickonmonthlybutton ===
+[2026-04-15 16:45:36] [INFO] [Dashboard] - === PASSED: clickonmonthlybutton | Reason: Test passed successfully. ===
+[2026-04-15 16:45:36] [INFO] [Dashboard] - === STARTED: verifyproductcategoryscreen ===
+[2026-04-15 16:45:37] [INFO] [Dashboard] - === PASSED: verifyproductcategoryscreen | Reason: Test passed successfully. ===
+[2026-04-15 16:45:37] [INFO] [Dashboard] - === STARTED: clickoncurrentyearbutton ===
+[2026-04-15 16:45:37] [INFO] [Dashboard] - === PASSED: clickoncurrentyearbutton | Reason: Test passed successfully. ===
+[2026-04-15 16:45:37] [INFO] [Dashboard] - === STARTED: clickonlastyearbutton ===
+[2026-04-15 16:45:38] [INFO] [Dashboard] - === PASSED: clickonlastyearbutton | Reason: Test passed successfully. ===
+[2026-04-15 16:45:38] [INFO] [Dashboard] - === STARTED: verifysalesscreen ===
+[2026-04-15 16:45:48] [INFO] [Dashboard] - === PASSED: verifysalesscreen | Reason: Test passed successfully. ===
+[2026-04-15 16:50:47] [INFO] [Dashboard] - === STARTED: verifydashboardScreen ===
+[2026-04-15 16:53:46] [INFO] [Dashboard] - === STARTED: verifydashboardScreen ===
+[2026-04-15 16:57:04] [INFO] [Dashboard] - === PASSED: verifydashboardScreen | Reason: Test passed successfully. ===
+[2026-04-15 16:57:04] [INFO] [Dashboard] - === STARTED: clickforqueriesbutton ===
+[2026-04-15 16:57:04] [INFO] [Dashboard] - === PASSED: clickforqueriesbutton | Reason: Test passed successfully. ===
+[2026-04-15 16:57:04] [INFO] [Dashboard] - === STARTED: clickonviewmorebutton ===
+[2026-04-15 16:57:12] [INFO] [Dashboard] - === PASSED: clickonviewmorebutton | Reason: Test passed successfully. ===
+[2026-04-15 16:57:12] [INFO] [Dashboard] - === STARTED: clickonviewlessbutton ===
+[2026-04-15 16:57:21] [INFO] [Dashboard] - === PASSED: clickonviewlessbutton | Reason: Test passed successfully. ===
+[2026-04-15 16:57:21] [INFO] [Dashboard] - === STARTED: verifygrowthsummaryscreen ===
+[2026-04-15 16:57:22] [INFO] [Dashboard] - === PASSED: verifygrowthsummaryscreen | Reason: Test passed successfully. ===
+[2026-04-15 16:57:22] [INFO] [Dashboard] - === STARTED: clickongraphbutton ===
+[2026-04-15 16:57:24] [INFO] [Dashboard] - === PASSED: clickongraphbutton | Reason: Test passed successfully. ===
+[2026-04-15 16:57:24] [INFO] [Dashboard] - === STARTED: clickonquarterlybutton ===
+[2026-04-15 16:57:25] [INFO] [Dashboard] - === PASSED: clickonquarterlybutton | Reason: Test passed successfully. ===
+[2026-04-15 16:57:25] [INFO] [Dashboard] - === STARTED: clickonmonthlybutton ===
+[2026-04-15 16:57:25] [INFO] [Dashboard] - === PASSED: clickonmonthlybutton | Reason: Test passed successfully. ===
+[2026-04-15 16:57:25] [INFO] [Dashboard] - === STARTED: verifyproductcategoryscreen ===
+[2026-04-15 16:57:36] [INFO] [Dashboard] - === PASSED: verifyproductcategoryscreen | Reason: Test passed successfully. ===
+[2026-04-15 16:57:36] [INFO] [Dashboard] - === STARTED: clickoncurrentyearbutton ===
+[2026-04-15 16:57:37] [INFO] [Dashboard] - === PASSED: clickoncurrentyearbutton | Reason: Test passed successfully. ===
+[2026-04-15 16:57:37] [INFO] [Dashboard] - === STARTED: clickonlastyearbutton ===
+[2026-04-15 16:57:37] [INFO] [Dashboard] - === PASSED: clickonlastyearbutton | Reason: Test passed successfully. ===
+[2026-04-15 16:57:37] [INFO] [Dashboard] - === STARTED: verifysalesscreen ===
+[2026-04-15 16:57:38] [INFO] [Dashboard] - === PASSED: verifysalesscreen | Reason: Test passed successfully. ===

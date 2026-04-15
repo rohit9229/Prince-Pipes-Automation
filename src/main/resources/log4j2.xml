@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="INFO">
+    <Appenders>
+        <!-- Console Appender -->
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="[%d{yyyy-MM-dd HH:mm:ss}] [%level] [%c{1}] - %msg%n"/>
+        </Console>
+
+        <!-- Login class rolling file -->
+        <RollingFile name="LoginFile"
+                     fileName="logs/login.log"
+                     filePattern="logs/backup/login_%d{yyyy-MM-dd}_%i.log.gz">
+            <PatternLayout>
+                <Pattern>[%d{yyyy-MM-dd HH:mm:ss}] [%level] [%c{1}] - %msg%n</Pattern>
+            </PatternLayout>
+            <Policies>
+                <SizeBasedTriggeringPolicy size="10MB"/>
+            </Policies>
+            <DefaultRolloverStrategy max="5"/>
+        </RollingFile>
+         <!-- create_order class rolling file -->
+        <RollingFile name="create_orderFile"
+             fileName="logs/create_order.log"
+             filePattern="logs/backup/create_order_%d{yyyy-MM-dd}_%i.log.gz">
+        <PatternLayout>
+        <Pattern>[%d{yyyy-MM-dd HH:mm:ss}] [%level] [%c{1}] - %msg%n</Pattern>
+        </PatternLayout>
+        <Policies>
+        <SizeBasedTriggeringPolicy size="10MB"/>
+        </Policies>
+        <DefaultRolloverStrategy max="5"/>
+        </RollingFile>
+         <!-- KYC class rolling file -->
+         <RollingFile name="KYCFile"
+             fileName="logs/KYC.log"
+             filePattern="logs/backup/KYC_%d{yyyy-MM-dd}_%i.log.gz">
+        <PatternLayout>
+        <Pattern>[%d{yyyy-MM-dd HH:mm:ss}] [%level] [%c{1}] - %msg%n</Pattern>
+        </PatternLayout>
+        <Policies>
+        <SizeBasedTriggeringPolicy size="10MB"/>
+        </Policies>
+        <DefaultRolloverStrategy max="5"/>
+        </RollingFile>
+        
+        <!-- KYC class rolling file -->
+         <RollingFile name="Available_StockFile"
+             fileName="logs/Available_Stock.log"
+             filePattern="logs/backup/KYC_%d{yyyy-MM-dd}_%i.log.gz">
+        <PatternLayout>
+        <Pattern>[%d{yyyy-MM-dd HH:mm:ss}] [%level] [%c{1}] - %msg%n</Pattern>
+        </PatternLayout>
+        <Policies>
+        <SizeBasedTriggeringPolicy size="10MB"/>
+        </Policies>
+        <DefaultRolloverStrategy max="5"/>
+        </RollingFile>
+
+        <!-- Dashboard class rolling file -->
+        <RollingFile name="DashboardFile"
+                     fileName="logs/dashboard.log"
+                     filePattern="logs/backup/dashboard_%d{yyyy-MM-dd}_%i.log.gz">
+            <PatternLayout>
+                <Pattern>[%d{yyyy-MM-dd HH:mm:ss}] [%level] [%c{1}] - %msg%n</Pattern>
+            </PatternLayout>
+            <Policies>
+                <SizeBasedTriggeringPolicy size="10MB"/>
+            </Policies>
+            <DefaultRolloverStrategy max="5"/>
+        </RollingFile>
+
+        <!-- Summary rolling file -->
+        <RollingFile name="SummaryFile"
+                     fileName="logs/test-summary.log"
+                     filePattern="logs/backup/test-summary_%d{yyyy-MM-dd}_%i.log.gz">
+            <PatternLayout>
+                <Pattern>[%d{yyyy-MM-dd HH:mm:ss}] [%level] [%c{1}] - %msg%n</Pattern>
+            </PatternLayout>
+            <Policies>
+                <SizeBasedTriggeringPolicy size="10MB"/>
+            </Policies>
+            <DefaultRolloverStrategy max="5"/>
+        </RollingFile>
+    </Appenders>
+
+    <Loggers>
+        <!-- Class-specific loggers -->
+        <Logger name="Eazy_Retail.login" level="info" additivity="false">
+            <AppenderRef ref="Console"/>
+            <AppenderRef ref="LoginFile"/>
+        </Logger>
+         <Logger name="Eazy_Retail.create_order" level="info" additivity="false">
+            <AppenderRef ref="Console"/>
+            <AppenderRef ref="create_orderFile"/>
+        </Logger>
+
+        <Logger name="Eazy_Retail.Dashboard" level="info" additivity="false">
+            <AppenderRef ref="Console"/>
+            <AppenderRef ref="DashboardFile"/>
+        </Logger>
+        <Logger name="Eazy_Retail.KYC" level="info" additivity="false">
+            <AppenderRef ref="Console"/>
+            <AppenderRef ref="KYCFile"/>
+        </Logger>
+        <Logger name="Eazy_Retail.Available_Stock" level="info" additivity="false">
+            <AppenderRef ref="Console"/>
+            <AppenderRef ref="Available_StockFile"/>
+        </Logger>
+
+        <!-- Root logger -->
+        <Root level="info">
+            <AppenderRef ref="Console"/>
+            <AppenderRef ref="SummaryFile"/>
+        </Root>
+    </Loggers>
+</Configuration>

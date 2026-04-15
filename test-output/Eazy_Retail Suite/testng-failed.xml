@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Eazy_Retail Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Retail_Tests(failed)">
+    <classes>
+      <class name="Eazy_Retail.KYC">
+        <methods>
+          <include name="testInvalidAadhaar"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="testInvalidGSTIN"/>
+        </methods>
+      </class> <!-- Eazy_Retail.KYC -->
+    </classes>
+  </test> <!-- Retail_Tests(failed) -->
+</suite> <!-- Failed suite [Eazy_Retail Suite] -->

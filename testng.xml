@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Eazy_Retail Suite" verbose="1" parallel="false" >
+ <test name="Retail_Tests">
+        <classes>
+            <!-- class name="Eazy_Retail.dashboard"/>-->
+            <class name="Eazy_Retail.create_order"/>
+            <!--class name="Eazy_Retail.place_order"/>-->
+            <class name="Eazy_Retail.KYC"/>
+            <!--class name="Eazy_Retail.Available_Stock"/>-->
+            <!--class name="Eazy_Retail.scheme_benefits"/>-->
+            <!--class name="Eazy_Retail.purchase_invoice"/>-->
+            <!--class name="Eazy_Retail.redeem_reward_point"/>-->
+            <!--class name="Eazy_Retail.master_summary"/>-->
+            <!--class name="Eazy_Retail.settings"/>-->
+            <!--class name="Eazy_Retail.manual_sync"/>-->
+            </classes>
+    </test>
+</suite>
