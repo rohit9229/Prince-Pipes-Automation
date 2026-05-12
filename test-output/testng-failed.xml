@@ -3,14 +3,15 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Prince_Pipes.Dashboard">
+      <class name="Prince_Pipes.Profile">
         <methods>
+          <include name="setUpLogin1"/>
+          <include name="setUpLogin"/>
           <include name="setUp"/>
           <include name="tearDown"/>
-          <include name="verifygrowthsummaryscreen"/>
-          <include name="setUpLogin"/>
+          <include name="Verifyprofilebutton"/>
         </methods>
-      </class> <!-- Prince_Pipes.Dashboard -->
+      </class> <!-- Prince_Pipes.Profile -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

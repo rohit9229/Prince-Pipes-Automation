@@ -3537,3 +3537,801 @@ Build info: version: '4.34.0', revision: '707dcb4246*...
 [2026-04-15 17:03:43] [INFO] [TestExecution] - Failed : 0
 [2026-04-15 17:03:43] [INFO] [TestExecution] - Skipped: 0
 [2026-04-15 17:03:43] [INFO] [TestExecution] - ===================
+[2026-04-17 16:11:12] [INFO] [TestExecution] - === TEST SUITE STARTED: Default test ===
+[2026-04-17 16:11:12] [INFO] [LoginTest] - ===== Starting LoginTest Test =====
+[2026-04-17 16:11:12] [INFO] [LoginTest] - Loading configuration values...
+[2026-04-17 16:11:12] [INFO] [LoginTest] - Initializing AndroidDriver...
+[2026-04-17 16:11:24] [INFO] [LoginTest] - === STARTED: verifyOnboardingScreen ===
+[2026-04-17 16:11:40] [INFO] [LoginTest] - === PASSED: verifyOnboardingScreen | Reason: Test passed successfully. ===
+[2026-04-17 16:11:40] [INFO] [LoginTest] - === STARTED: clickNextButton ===
+[2026-04-17 16:11:40] [INFO] [LoginTest] - === PASSED: clickNextButton | Reason: Test passed successfully. ===
+[2026-04-17 16:11:40] [INFO] [LoginTest] - === STARTED: verifySecondaryScreen ===
+[2026-04-17 16:11:42] [INFO] [LoginTest] - === PASSED: verifySecondaryScreen | Reason: Test passed successfully. ===
+[2026-04-17 16:11:42] [INFO] [LoginTest] - === STARTED: clickNextButton2 ===
+[2026-04-17 16:11:43] [INFO] [LoginTest] - === PASSED: clickNextButton2 | Reason: Test passed successfully. ===
+[2026-04-17 16:11:43] [INFO] [LoginTest] - === STARTED: verifyThirdScreen ===
+[2026-04-17 16:11:44] [INFO] [LoginTest] - === PASSED: verifyThirdScreen | Reason: Test passed successfully. ===
+[2026-04-17 16:11:44] [INFO] [LoginTest] - === STARTED: clickNextButton3 ===
+[2026-04-17 16:11:45] [INFO] [LoginTest] - === PASSED: clickNextButton3 | Reason: Test passed successfully. ===
+[2026-04-17 16:11:45] [INFO] [LoginTest] - === STARTED: verifyFourthScreen ===
+[2026-04-17 16:11:46] [INFO] [LoginTest] - === PASSED: verifyFourthScreen | Reason: Test passed successfully. ===
+[2026-04-17 16:11:46] [INFO] [LoginTest] - === STARTED: clickNextButton4 ===
+[2026-04-17 16:11:46] [INFO] [LoginTest] - === PASSED: clickNextButton4 | Reason: Test passed successfully. ===
+[2026-04-17 16:11:46] [INFO] [LoginTest] - === STARTED: verifyLoginScreen ===
+[2026-04-17 16:11:48] [INFO] [LoginTest] - === PASSED: verifyLoginScreen | Reason: Test passed successfully. ===
+[2026-04-17 16:11:48] [INFO] [LoginTest] - === STARTED: enterPhoneNumber ===
+[2026-04-17 16:11:49] [INFO] [LoginTest] - === PASSED: enterPhoneNumber | Reason: Test passed successfully. ===
+[2026-04-17 16:11:49] [INFO] [LoginTest] - === STARTED: validateUserNotAvailablePopup ===
+[2026-04-17 16:11:59] [INFO] [LoginTest] - === PASSED: validateUserNotAvailablePopup | Reason: Test passed successfully. ===
+[2026-04-17 16:11:59] [INFO] [LoginTest] - === STARTED: validatePleaseenter10digitnoPopup ===
+[2026-04-17 16:12:02] [INFO] [LoginTest] - === PASSED: validatePleaseenter10digitnoPopup | Reason: Test passed successfully. ===
+[2026-04-17 16:12:02] [INFO] [LoginTest] - === STARTED: validatemorethan10digitno ===
+[2026-04-17 16:12:04] [INFO] [LoginTest] - === PASSED: validatemorethan10digitno | Reason: Test passed successfully. ===
+[2026-04-17 16:12:04] [INFO] [LoginTest] - === STARTED: validatealphabeticcharacteracceptance ===
+[2026-04-17 16:12:06] [INFO] [LoginTest] - === PASSED: validatealphabeticcharacteracceptance | Reason: Test passed successfully. ===
+[2026-04-17 16:12:06] [INFO] [LoginTest] - === STARTED: validatecorrectuserisloggedinsuccessfully ===
+[2026-04-17 16:12:08] [INFO] [LoginTest] - === PASSED: validatecorrectuserisloggedinsuccessfully | Reason: Test passed successfully. ===
+[2026-04-17 16:12:08] [INFO] [LoginTest] - === STARTED: validatemissingOTP ===
+[2026-04-17 16:24:11] [INFO] [TestExecution] - === TEST SUITE STARTED: Default test ===
+[2026-04-17 16:24:11] [INFO] [LoginTest] - ===== Starting LoginTest Test =====
+[2026-04-17 16:24:11] [INFO] [LoginTest] - Loading configuration values...
+[2026-04-17 16:24:11] [INFO] [LoginTest] - Initializing AndroidDriver...
+[2026-04-17 16:24:23] [INFO] [LoginTest] - === STARTED: verifyOnboardingScreen ===
+[2026-04-17 16:24:39] [INFO] [LoginTest] - === PASSED: verifyOnboardingScreen | Reason: Test passed successfully. ===
+[2026-04-17 16:24:39] [INFO] [LoginTest] - === STARTED: clickNextButton ===
+[2026-04-17 16:24:40] [INFO] [LoginTest] - === PASSED: clickNextButton | Reason: Test passed successfully. ===
+[2026-04-17 16:24:40] [INFO] [LoginTest] - === STARTED: verifySecondaryScreen ===
+[2026-04-17 16:24:41] [INFO] [LoginTest] - === PASSED: verifySecondaryScreen | Reason: Test passed successfully. ===
+[2026-04-17 16:24:41] [INFO] [LoginTest] - === STARTED: clickNextButton2 ===
+[2026-04-17 16:24:42] [INFO] [LoginTest] - === PASSED: clickNextButton2 | Reason: Test passed successfully. ===
+[2026-04-17 16:24:42] [INFO] [LoginTest] - === STARTED: verifyThirdScreen ===
+[2026-04-17 16:24:44] [INFO] [LoginTest] - === PASSED: verifyThirdScreen | Reason: Test passed successfully. ===
+[2026-04-17 16:24:44] [INFO] [LoginTest] - === STARTED: clickNextButton3 ===
+[2026-04-17 16:24:44] [INFO] [LoginTest] - === PASSED: clickNextButton3 | Reason: Test passed successfully. ===
+[2026-04-17 16:24:44] [INFO] [LoginTest] - === STARTED: verifyFourthScreen ===
+[2026-04-17 16:24:45] [INFO] [LoginTest] - === PASSED: verifyFourthScreen | Reason: Test passed successfully. ===
+[2026-04-17 16:24:45] [INFO] [LoginTest] - === STARTED: clickNextButton4 ===
+[2026-04-17 16:24:46] [INFO] [LoginTest] - === PASSED: clickNextButton4 | Reason: Test passed successfully. ===
+[2026-04-17 16:24:46] [INFO] [LoginTest] - === STARTED: verifyLoginScreen ===
+[2026-04-17 16:24:47] [INFO] [LoginTest] - === PASSED: verifyLoginScreen | Reason: Test passed successfully. ===
+[2026-04-17 16:24:47] [INFO] [LoginTest] - === STARTED: enterPhoneNumber ===
+[2026-04-17 16:24:49] [INFO] [LoginTest] - === PASSED: enterPhoneNumber | Reason: Test passed successfully. ===
+[2026-04-17 16:24:49] [INFO] [LoginTest] - === STARTED: validateUserNotAvailablePopup ===
+[2026-04-17 16:24:58] [INFO] [LoginTest] - === PASSED: validateUserNotAvailablePopup | Reason: Test passed successfully. ===
+[2026-04-17 16:24:58] [INFO] [LoginTest] - === STARTED: validatePleaseenter10digitnoPopup ===
+[2026-04-17 16:25:01] [INFO] [LoginTest] - === PASSED: validatePleaseenter10digitnoPopup | Reason: Test passed successfully. ===
+[2026-04-17 16:25:01] [INFO] [LoginTest] - === STARTED: validatemorethan10digitno ===
+[2026-04-17 16:25:02] [INFO] [LoginTest] - === PASSED: validatemorethan10digitno | Reason: Test passed successfully. ===
+[2026-04-17 16:25:02] [INFO] [LoginTest] - === STARTED: validatealphabeticcharacteracceptance ===
+[2026-04-17 16:25:04] [INFO] [LoginTest] - === PASSED: validatealphabeticcharacteracceptance | Reason: Test passed successfully. ===
+[2026-04-17 16:25:04] [INFO] [LoginTest] - === STARTED: validatecorrectuserisloggedinsuccessfully ===
+[2026-04-17 16:25:06] [INFO] [LoginTest] - === PASSED: validatecorrectuserisloggedinsuccessfully | Reason: Test passed successfully. ===
+[2026-04-17 16:25:06] [INFO] [LoginTest] - === STARTED: validatemissingOTP ===
+[2026-04-17 16:25:19] [INFO] [LoginTest] - === PASSED: validatemissingOTP | Reason: Test passed successfully. ===
+[2026-04-17 16:25:19] [INFO] [LoginTest] - === STARTED: validateincorrectOTP ===
+[2026-04-17 16:25:33] [INFO] [LoginTest] - === PASSED: validateincorrectOTP | Reason: Test passed successfully. ===
+[2026-04-17 16:25:33] [INFO] [LoginTest] - === STARTED: validateResendAndSubmitFlow ===
+[2026-04-17 16:26:03] [INFO] [LoginTest] - === PASSED: validateResendAndSubmitFlow | Reason: Test passed successfully. ===
+[2026-04-17 16:26:03] [INFO] [LoginTest] - === STARTED: hamburgermenu ===
+[2026-04-17 16:28:40] [INFO] [LoginTest] - === PASSED: hamburgermenu | Reason: Test passed successfully. ===
+[2026-04-17 16:28:40] [INFO] [LoginTest] - === STARTED: verifydashboardScreen ===
+[2026-04-17 16:28:52] [INFO] [LoginTest] - === PASSED: verifydashboardScreen | Reason: Test passed successfully. ===
+[2026-04-17 16:28:52] [INFO] [LoginTest] - === STARTED: clickforqueriesbutton ===
+[2026-04-17 16:28:52] [INFO] [LoginTest] - === PASSED: clickforqueriesbutton | Reason: Test passed successfully. ===
+[2026-04-17 16:28:52] [INFO] [LoginTest] - === STARTED: clickonviewmorebutton ===
+[2026-04-17 16:29:00] [INFO] [LoginTest] - === PASSED: clickonviewmorebutton | Reason: Test passed successfully. ===
+[2026-04-17 16:29:00] [INFO] [LoginTest] - === STARTED: clickonviewlessbutton ===
+[2026-04-17 16:29:10] [INFO] [LoginTest] - === PASSED: clickonviewlessbutton | Reason: Test passed successfully. ===
+[2026-04-17 16:29:10] [INFO] [LoginTest] - === STARTED: verifygrowthsummaryscreen ===
+[2026-04-17 16:29:10] [INFO] [LoginTest] - === PASSED: verifygrowthsummaryscreen | Reason: Test passed successfully. ===
+[2026-04-17 16:29:10] [INFO] [LoginTest] - === STARTED: clickongraphbutton ===
+[2026-04-17 16:29:12] [INFO] [LoginTest] - === PASSED: clickongraphbutton | Reason: Test passed successfully. ===
+[2026-04-17 16:29:12] [INFO] [LoginTest] - === STARTED: clickonquarterlybutton ===
+[2026-04-17 16:29:13] [INFO] [LoginTest] - === PASSED: clickonquarterlybutton | Reason: Test passed successfully. ===
+[2026-04-17 16:29:13] [INFO] [LoginTest] - === STARTED: clickonmonthlybutton ===
+[2026-04-17 16:29:13] [INFO] [LoginTest] - === PASSED: clickonmonthlybutton | Reason: Test passed successfully. ===
+[2026-04-17 16:29:13] [INFO] [LoginTest] - === STARTED: verifyproductcategoryscreen ===
+[2026-04-17 16:29:24] [INFO] [LoginTest] - === PASSED: verifyproductcategoryscreen | Reason: Test passed successfully. ===
+[2026-04-17 16:29:24] [INFO] [LoginTest] - === STARTED: clickoncurrentyearbutton ===
+[2026-04-17 16:29:25] [INFO] [LoginTest] - === PASSED: clickoncurrentyearbutton | Reason: Test passed successfully. ===
+[2026-04-17 16:29:25] [INFO] [LoginTest] - === STARTED: clickonlastyearbutton ===
+[2026-04-17 16:29:26] [INFO] [LoginTest] - === PASSED: clickonlastyearbutton | Reason: Test passed successfully. ===
+[2026-04-17 16:29:26] [INFO] [LoginTest] - === STARTED: verifysalesscreen ===
+[2026-04-17 16:29:26] [INFO] [LoginTest] - === PASSED: verifysalesscreen | Reason: Test passed successfully. ===
+[2026-04-17 16:29:26] [INFO] [LoginTest] - Keeping app open after execution (Debug Mode).
+[2026-04-17 16:29:26] [INFO] [TestExecution] - === TEST SUITE FINISHED: Default test ===
+[2026-04-17 16:29:26] [INFO] [TestExecution] - === TEST SUMMARY CLASS-WISE ===
+[2026-04-17 16:29:26] [INFO] [TestExecution] - Class: LoginTest
+[2026-04-17 16:29:26] [INFO] [TestExecution] - Passed : 31
+[2026-04-17 16:29:26] [INFO] [TestExecution] - Failed : 0
+[2026-04-17 16:29:26] [INFO] [TestExecution] - Skipped: 0
+[2026-04-17 16:29:26] [INFO] [TestExecution] - ------------------------------
+[2026-04-17 16:29:26] [INFO] [TestExecution] - === TOTAL TESTS ===
+[2026-04-17 16:29:26] [INFO] [TestExecution] - Total  : 31
+[2026-04-17 16:29:26] [INFO] [TestExecution] - Passed : 31
+[2026-04-17 16:29:26] [INFO] [TestExecution] - Failed : 0
+[2026-04-17 16:29:26] [INFO] [TestExecution] - Skipped: 0
+[2026-04-17 16:29:26] [INFO] [TestExecution] - ===================
+[2026-04-17 17:29:40] [INFO] [TestExecution] - === TEST SUITE STARTED: Default test ===
+[2026-04-17 17:29:40] [INFO] [Profile] - ===== Starting Profile Test =====
+[2026-04-17 17:29:40] [INFO] [Profile] - Loading configuration values...
+[2026-04-17 17:29:40] [INFO] [Profile] - Initializing AndroidDriver...
+[2026-04-17 17:29:51] [INFO] [Profile] - === STARTED: Verifyprofilebutton ===
+[2026-04-17 17:29:52] [ERROR] [Profile] - === FAILED: Verifyprofilebutton | Reason: Cannot invoke "utils.WaitUtils.waitForElementClickable(org.openqa.selenium.By)" because "this.wait" is null | Screenshot: screenshots/Profile_Verifyprofilebutton_20260417_172951.png ===
+[2026-04-17 17:29:52] [INFO] [Profile] - Keeping app open after execution (Debug Mode).
+[2026-04-17 17:29:52] [INFO] [TestExecution] - === TEST SUITE FINISHED: Default test ===
+[2026-04-17 17:29:52] [INFO] [TestExecution] - === TEST SUMMARY CLASS-WISE ===
+[2026-04-17 17:29:52] [INFO] [TestExecution] - Class: Profile
+[2026-04-17 17:29:52] [INFO] [TestExecution] - Passed : 0
+[2026-04-17 17:29:52] [INFO] [TestExecution] - Failed : 1
+[2026-04-17 17:29:52] [INFO] [TestExecution] - Skipped: 0
+[2026-04-17 17:29:52] [INFO] [TestExecution] - Failed Reasons:
+[2026-04-17 17:29:52] [INFO] [TestExecution] -  - Verifyprofilebutton -> Cannot invoke "utils.WaitUtils.waitForElementClickable(org.openqa.selenium.By)" because "this.wait" is null
+[2026-04-17 17:29:52] [INFO] [TestExecution] - ------------------------------
+[2026-04-17 17:29:52] [INFO] [TestExecution] - === TOTAL TESTS ===
+[2026-04-17 17:29:52] [INFO] [TestExecution] - Total  : 1
+[2026-04-17 17:29:52] [INFO] [TestExecution] - Passed : 0
+[2026-04-17 17:29:52] [INFO] [TestExecution] - Failed : 1
+[2026-04-17 17:29:52] [INFO] [TestExecution] - Skipped: 0
+[2026-04-17 17:29:52] [INFO] [TestExecution] - ===================
+[2026-04-17 17:30:17] [INFO] [TestExecution] - === TEST SUITE STARTED: Default test ===
+[2026-04-17 17:30:17] [INFO] [Profile] - ===== Starting Profile Test =====
+[2026-04-17 17:30:17] [INFO] [Profile] - Loading configuration values...
+[2026-04-17 17:30:17] [INFO] [Profile] - Initializing AndroidDriver...
+[2026-04-17 17:30:26] [INFO] [Profile] - === STARTED: Verifyprofilebutton ===
+[2026-04-17 17:30:27] [ERROR] [Profile] - === FAILED: Verifyprofilebutton | Reason: Cannot invoke "utils.WaitUtils.waitForElementClickable(org.openqa.selenium.By)" because "this.wait" is null | Screenshot: screenshots/Profile_Verifyprofilebutton_20260417_173026.png ===
+[2026-04-17 17:30:27] [INFO] [Profile] - Keeping app open after execution (Debug Mode).
+[2026-04-17 17:30:27] [INFO] [TestExecution] - === TEST SUITE FINISHED: Default test ===
+[2026-04-17 17:30:27] [INFO] [TestExecution] - === TEST SUMMARY CLASS-WISE ===
+[2026-04-17 17:30:27] [INFO] [TestExecution] - Class: Profile
+[2026-04-17 17:30:27] [INFO] [TestExecution] - Passed : 0
+[2026-04-17 17:30:27] [INFO] [TestExecution] - Failed : 1
+[2026-04-17 17:30:27] [INFO] [TestExecution] - Skipped: 0
+[2026-04-17 17:30:27] [INFO] [TestExecution] - Failed Reasons:
+[2026-04-17 17:30:27] [INFO] [TestExecution] -  - Verifyprofilebutton -> Cannot invoke "utils.WaitUtils.waitForElementClickable(org.openqa.selenium.By)" because "this.wait" is null
+[2026-04-17 17:30:27] [INFO] [TestExecution] - ------------------------------
+[2026-04-17 17:30:27] [INFO] [TestExecution] - === TOTAL TESTS ===
+[2026-04-17 17:30:27] [INFO] [TestExecution] - Total  : 1
+[2026-04-17 17:30:27] [INFO] [TestExecution] - Passed : 0
+[2026-04-17 17:30:27] [INFO] [TestExecution] - Failed : 1
+[2026-04-17 17:30:27] [INFO] [TestExecution] - Skipped: 0
+[2026-04-17 17:30:27] [INFO] [TestExecution] - ===================
+[2026-04-17 17:34:13] [INFO] [TestExecution] - === TEST SUITE STARTED: Default test ===
+[2026-04-17 17:34:13] [INFO] [Profile] - ===== Starting Profile Test =====
+[2026-04-17 17:34:13] [INFO] [Profile] - Loading configuration values...
+[2026-04-17 17:34:13] [INFO] [Profile] - Initializing AndroidDriver...
+[2026-04-17 17:34:22] [INFO] [Profile] - === STARTED: Verifyprofilebutton ===
+[2026-04-17 17:34:24] [ERROR] [Profile] - === FAILED: Verifyprofilebutton | Reason: Cannot invoke "utils.WaitUtils.waitForElementClickable(org.openqa.selenium.By)" because "this.wait" is null | Screenshot: screenshots/Profile_Verifyprofilebutton_20260417_173422.png ===
+[2026-04-17 17:34:24] [INFO] [Profile] - Keeping app open after execution (Debug Mode).
+[2026-04-17 17:34:24] [INFO] [TestExecution] - === TEST SUITE FINISHED: Default test ===
+[2026-04-17 17:34:24] [INFO] [TestExecution] - === TEST SUMMARY CLASS-WISE ===
+[2026-04-17 17:34:24] [INFO] [TestExecution] - Class: Profile
+[2026-04-17 17:34:24] [INFO] [TestExecution] - Passed : 0
+[2026-04-17 17:34:24] [INFO] [TestExecution] - Failed : 1
+[2026-04-17 17:34:24] [INFO] [TestExecution] - Skipped: 0
+[2026-04-17 17:34:24] [INFO] [TestExecution] - Failed Reasons:
+[2026-04-17 17:34:24] [INFO] [TestExecution] -  - Verifyprofilebutton -> Cannot invoke "utils.WaitUtils.waitForElementClickable(org.openqa.selenium.By)" because "this.wait" is null
+[2026-04-17 17:34:24] [INFO] [TestExecution] - ------------------------------
+[2026-04-17 17:34:24] [INFO] [TestExecution] - === TOTAL TESTS ===
+[2026-04-17 17:34:24] [INFO] [TestExecution] - Total  : 1
+[2026-04-17 17:34:24] [INFO] [TestExecution] - Passed : 0
+[2026-04-17 17:34:24] [INFO] [TestExecution] - Failed : 1
+[2026-04-17 17:34:24] [INFO] [TestExecution] - Skipped: 0
+[2026-04-17 17:34:24] [INFO] [TestExecution] - ===================
+[2026-04-17 17:36:36] [INFO] [TestExecution] - === TEST SUITE STARTED: Default test ===
+[2026-04-17 17:36:36] [INFO] [Profile] - ===== Starting Profile Test =====
+[2026-04-17 17:36:36] [INFO] [Profile] - Loading configuration values...
+[2026-04-17 17:36:36] [INFO] [Profile] - Initializing AndroidDriver...
+[2026-04-17 17:36:46] [INFO] [Profile] - === STARTED: Verifyprofilebutton ===
+[2026-04-17 17:37:17] [ERROR] [Profile] - === FAILED: Verifyprofilebutton | Reason: Element not clickable: AppiumBy.androidUIAutomator: new UiSelector().className("com.horcrux.svg.PathView").instance(3) | Expected condition failed: waiting for element to be clickable: AppiumBy.androidUIAutomator: new UiSelector().className("com.horc... | Screenshot: screenshots/Profile_Verifyprofilebutton_20260417_173716.png ===
+[2026-04-17 17:37:17] [INFO] [Profile] - Keeping app open after execution (Debug Mode).
+[2026-04-17 17:37:17] [INFO] [TestExecution] - === TEST SUITE FINISHED: Default test ===
+[2026-04-17 17:37:17] [INFO] [TestExecution] - === TEST SUMMARY CLASS-WISE ===
+[2026-04-17 17:37:17] [INFO] [TestExecution] - Class: Profile
+[2026-04-17 17:37:17] [INFO] [TestExecution] - Passed : 0
+[2026-04-17 17:37:17] [INFO] [TestExecution] - Failed : 1
+[2026-04-17 17:37:17] [INFO] [TestExecution] - Skipped: 0
+[2026-04-17 17:37:17] [INFO] [TestExecution] - Failed Reasons:
+[2026-04-17 17:37:17] [INFO] [TestExecution] -  - Verifyprofilebutton -> Element not clickable: AppiumBy.androidUIAutomator: new UiSelector().className("com.horcrux.svg.PathView").instance(3) | Expected condition failed: waiting for element to be clickable: AppiumBy.androidUIAutomator: new UiSelector().className("com.horc...
+[2026-04-17 17:37:17] [INFO] [TestExecution] - ------------------------------
+[2026-04-17 17:37:17] [INFO] [TestExecution] - === TOTAL TESTS ===
+[2026-04-17 17:37:17] [INFO] [TestExecution] - Total  : 1
+[2026-04-17 17:37:17] [INFO] [TestExecution] - Passed : 0
+[2026-04-17 17:37:17] [INFO] [TestExecution] - Failed : 1
+[2026-04-17 17:37:17] [INFO] [TestExecution] - Skipped: 0
+[2026-04-17 17:37:17] [INFO] [TestExecution] - ===================
+[2026-04-17 17:48:09] [INFO] [TestExecution] - === TEST SUITE STARTED: Default test ===
+[2026-04-17 17:48:09] [INFO] [Profile] - ===== Starting Profile Test =====
+[2026-04-17 17:48:09] [INFO] [Profile] - Loading configuration values...
+[2026-04-17 17:48:09] [INFO] [Profile] - Initializing AndroidDriver...
+[2026-04-17 17:48:18] [INFO] [Profile] - === STARTED: verifyOnboardingScreen ===
+[2026-04-17 17:48:33] [INFO] [Profile] - === PASSED: verifyOnboardingScreen | Reason: Test passed successfully. ===
+[2026-04-17 17:48:33] [INFO] [Profile] - === STARTED: clickNextButton ===
+[2026-04-17 17:48:34] [INFO] [Profile] - === PASSED: clickNextButton | Reason: Test passed successfully. ===
+[2026-04-17 17:48:34] [INFO] [Profile] - === STARTED: verifySecondaryScreen ===
+[2026-04-17 17:48:35] [INFO] [Profile] - === PASSED: verifySecondaryScreen | Reason: Test passed successfully. ===
+[2026-04-17 17:48:35] [INFO] [Profile] - === STARTED: clickNextButton2 ===
+[2026-04-17 17:48:36] [INFO] [Profile] - === PASSED: clickNextButton2 | Reason: Test passed successfully. ===
+[2026-04-17 17:48:36] [INFO] [Profile] - === STARTED: verifyThirdScreen ===
+[2026-04-17 17:48:38] [INFO] [Profile] - === PASSED: verifyThirdScreen | Reason: Test passed successfully. ===
+[2026-04-17 17:48:38] [INFO] [Profile] - === STARTED: clickNextButton3 ===
+[2026-04-17 17:48:38] [INFO] [Profile] - === PASSED: clickNextButton3 | Reason: Test passed successfully. ===
+[2026-04-17 17:48:38] [INFO] [Profile] - === STARTED: verifyFourthScreen ===
+[2026-04-17 17:48:39] [INFO] [Profile] - === PASSED: verifyFourthScreen | Reason: Test passed successfully. ===
+[2026-04-17 17:48:39] [INFO] [Profile] - === STARTED: clickNextButton4 ===
+[2026-04-17 17:48:40] [INFO] [Profile] - === PASSED: clickNextButton4 | Reason: Test passed successfully. ===
+[2026-04-17 17:48:40] [INFO] [Profile] - === STARTED: verifyLoginScreen ===
+[2026-04-17 17:48:41] [INFO] [Profile] - === PASSED: verifyLoginScreen | Reason: Test passed successfully. ===
+[2026-04-17 17:48:41] [INFO] [Profile] - === STARTED: validatecorrectuserisloggedinsuccessfully ===
+[2026-04-17 17:48:42] [INFO] [Profile] - === PASSED: validatecorrectuserisloggedinsuccessfully | Reason: Test passed successfully. ===
+[2026-04-17 17:48:42] [INFO] [Profile] - === STARTED: validatesubmitbutton ===
+[2026-04-17 17:48:56] [INFO] [Profile] - === PASSED: validatesubmitbutton | Reason: Test passed successfully. ===
+[2026-04-17 17:48:56] [INFO] [Profile] - === STARTED: Verifyprofilebutton ===
+[2026-04-17 17:51:35] [INFO] [Profile] - === PASSED: Verifyprofilebutton | Reason: Test passed successfully. ===
+[2026-04-17 17:51:35] [INFO] [Profile] - Keeping app open after execution (Debug Mode).
+[2026-04-17 17:51:35] [INFO] [TestExecution] - === TEST SUITE FINISHED: Default test ===
+[2026-04-17 17:51:35] [INFO] [TestExecution] - === TEST SUMMARY CLASS-WISE ===
+[2026-04-17 17:51:35] [INFO] [TestExecution] - Class: Profile
+[2026-04-17 17:51:35] [INFO] [TestExecution] - Passed : 12
+[2026-04-17 17:51:35] [INFO] [TestExecution] - Failed : 0
+[2026-04-17 17:51:35] [INFO] [TestExecution] - Skipped: 0
+[2026-04-17 17:51:35] [INFO] [TestExecution] - ------------------------------
+[2026-04-17 17:51:35] [INFO] [TestExecution] - === TOTAL TESTS ===
+[2026-04-17 17:51:35] [INFO] [TestExecution] - Total  : 12
+[2026-04-17 17:51:35] [INFO] [TestExecution] - Passed : 12
+[2026-04-17 17:51:35] [INFO] [TestExecution] - Failed : 0
+[2026-04-17 17:51:35] [INFO] [TestExecution] - Skipped: 0
+[2026-04-17 17:51:35] [INFO] [TestExecution] - ===================
+[2026-04-17 18:10:44] [INFO] [TestExecution] - === TEST SUITE STARTED: Default test ===
+[2026-04-17 18:10:44] [INFO] [Profile] - ===== Starting Profile Test =====
+[2026-04-17 18:10:44] [INFO] [Profile] - Loading configuration values...
+[2026-04-17 18:10:44] [INFO] [Profile] - Initializing AndroidDriver...
+[2026-04-17 18:10:51] [INFO] [Profile] - === STARTED: verifyOnboardingScreen ===
+[2026-04-17 18:11:07] [INFO] [Profile] - === PASSED: verifyOnboardingScreen | Reason: Test passed successfully. ===
+[2026-04-17 18:11:07] [INFO] [Profile] - === STARTED: clickNextButton ===
+[2026-04-17 18:11:08] [INFO] [Profile] - === PASSED: clickNextButton | Reason: Test passed successfully. ===
+[2026-04-17 18:11:08] [INFO] [Profile] - === STARTED: verifySecondaryScreen ===
+[2026-04-17 18:11:09] [INFO] [Profile] - === PASSED: verifySecondaryScreen | Reason: Test passed successfully. ===
+[2026-04-17 18:11:09] [INFO] [Profile] - === STARTED: clickNextButton2 ===
+[2026-04-17 18:11:10] [INFO] [Profile] - === PASSED: clickNextButton2 | Reason: Test passed successfully. ===
+[2026-04-17 18:11:10] [INFO] [Profile] - === STARTED: verifyThirdScreen ===
+[2026-04-17 18:11:11] [INFO] [Profile] - === PASSED: verifyThirdScreen | Reason: Test passed successfully. ===
+[2026-04-17 18:11:11] [INFO] [Profile] - === STARTED: clickNextButton3 ===
+[2026-04-17 18:11:11] [INFO] [Profile] - === PASSED: clickNextButton3 | Reason: Test passed successfully. ===
+[2026-04-17 18:11:11] [INFO] [Profile] - === STARTED: verifyFourthScreen ===
+[2026-04-17 18:11:13] [INFO] [Profile] - === PASSED: verifyFourthScreen | Reason: Test passed successfully. ===
+[2026-04-17 18:11:13] [INFO] [Profile] - === STARTED: clickNextButton4 ===
+[2026-04-17 18:11:13] [INFO] [Profile] - === PASSED: clickNextButton4 | Reason: Test passed successfully. ===
+[2026-04-17 18:11:13] [INFO] [Profile] - === STARTED: verifyLoginScreen ===
+[2026-04-17 18:11:14] [INFO] [Profile] - === PASSED: verifyLoginScreen | Reason: Test passed successfully. ===
+[2026-04-17 18:11:14] [INFO] [Profile] - === STARTED: validatecorrectuserisloggedinsuccessfully ===
+[2026-04-17 18:11:16] [INFO] [Profile] - === PASSED: validatecorrectuserisloggedinsuccessfully | Reason: Test passed successfully. ===
+[2026-04-17 18:11:16] [INFO] [Profile] - === STARTED: validatesubmitbutton ===
+[2026-04-17 18:11:26] [INFO] [Profile] - === PASSED: validatesubmitbutton | Reason: Test passed successfully. ===
+[2026-04-17 18:11:26] [INFO] [Profile] - === STARTED: Verifyprofilebutton ===
+[2026-04-17 18:14:38] [INFO] [Profile] - === PASSED: Verifyprofilebutton | Reason: Test passed successfully. ===
+[2026-04-17 18:14:38] [INFO] [Profile] - Keeping app open after execution (Debug Mode).
+[2026-04-17 18:14:38] [INFO] [TestExecution] - === TEST SUITE FINISHED: Default test ===
+[2026-04-17 18:14:38] [INFO] [TestExecution] - === TEST SUMMARY CLASS-WISE ===
+[2026-04-17 18:14:38] [INFO] [TestExecution] - Class: Profile
+[2026-04-17 18:14:38] [INFO] [TestExecution] - Passed : 12
+[2026-04-17 18:14:38] [INFO] [TestExecution] - Failed : 0
+[2026-04-17 18:14:38] [INFO] [TestExecution] - Skipped: 0
+[2026-04-17 18:14:38] [INFO] [TestExecution] - ------------------------------
+[2026-04-17 18:14:38] [INFO] [TestExecution] - === TOTAL TESTS ===
+[2026-04-17 18:14:38] [INFO] [TestExecution] - Total  : 12
+[2026-04-17 18:14:38] [INFO] [TestExecution] - Passed : 12
+[2026-04-17 18:14:38] [INFO] [TestExecution] - Failed : 0
+[2026-04-17 18:14:38] [INFO] [TestExecution] - Skipped: 0
+[2026-04-17 18:14:38] [INFO] [TestExecution] - ===================
+[2026-04-17 18:18:03] [INFO] [TestExecution] - === TEST SUITE STARTED: Default test ===
+[2026-04-17 18:18:03] [INFO] [Profile] - ===== Starting Profile Test =====
+[2026-04-17 18:18:03] [INFO] [Profile] - Initializing AndroidDriver...
+[2026-04-17 18:18:14] [INFO] [Profile] - === STARTED: verifyOnboardingScreen ===
+[2026-04-17 18:18:31] [INFO] [Profile] - === PASSED: verifyOnboardingScreen | Reason: Test passed successfully. ===
+[2026-04-17 18:18:31] [INFO] [Profile] - === STARTED: Verifyprofilebutton ===
+[2026-04-17 18:18:35] [INFO] [Profile] - === PASSED: Verifyprofilebutton | Reason: Test passed successfully. ===
+[2026-04-17 18:18:35] [INFO] [Profile] - === STARTED: clickNextButton ===
+[2026-04-17 18:18:35] [INFO] [Profile] - === PASSED: clickNextButton | Reason: Test passed successfully. ===
+[2026-04-17 18:18:35] [INFO] [Profile] - === STARTED: verifySecondaryScreen ===
+[2026-04-17 18:18:36] [INFO] [Profile] - === PASSED: verifySecondaryScreen | Reason: Test passed successfully. ===
+[2026-04-17 18:18:36] [INFO] [Profile] - === STARTED: clickNextButton2 ===
+[2026-04-17 18:18:38] [INFO] [Profile] - === PASSED: clickNextButton2 | Reason: Test passed successfully. ===
+[2026-04-17 18:18:38] [INFO] [Profile] - === STARTED: verifyThirdScreen ===
+[2026-04-17 18:18:39] [INFO] [Profile] - === PASSED: verifyThirdScreen | Reason: Test passed successfully. ===
+[2026-04-17 18:18:39] [INFO] [Profile] - === STARTED: clickNextButton3 ===
+[2026-04-17 18:18:39] [INFO] [Profile] - === PASSED: clickNextButton3 | Reason: Test passed successfully. ===
+[2026-04-17 18:18:39] [INFO] [Profile] - === STARTED: verifyFourthScreen ===
+[2026-04-17 18:18:41] [INFO] [Profile] - === PASSED: verifyFourthScreen | Reason: Test passed successfully. ===
+[2026-04-17 18:18:41] [INFO] [Profile] - === STARTED: clickNextButton4 ===
+[2026-04-17 18:18:41] [INFO] [Profile] - === PASSED: clickNextButton4 | Reason: Test passed successfully. ===
+[2026-04-17 18:18:41] [INFO] [Profile] - === STARTED: verifyLoginScreen ===
+[2026-04-17 18:18:42] [INFO] [Profile] - === PASSED: verifyLoginScreen | Reason: Test passed successfully. ===
+[2026-04-17 18:18:42] [INFO] [Profile] - === STARTED: validatecorrectuserisloggedinsuccessfully ===
+[2026-04-17 18:18:45] [INFO] [Profile] - === PASSED: validatecorrectuserisloggedinsuccessfully | Reason: Test passed successfully. ===
+[2026-04-17 18:18:45] [INFO] [Profile] - === STARTED: validatesubmitbutton ===
+[2026-04-17 18:18:55] [INFO] [Profile] - === PASSED: validatesubmitbutton | Reason: Test passed successfully. ===
+[2026-04-17 18:18:55] [INFO] [Profile] - Keeping app open after execution (Debug Mode).
+[2026-04-17 18:18:55] [INFO] [TestExecution] - === TEST SUITE FINISHED: Default test ===
+[2026-04-17 18:18:55] [INFO] [TestExecution] - === TEST SUMMARY CLASS-WISE ===
+[2026-04-17 18:18:55] [INFO] [TestExecution] - Class: Profile
+[2026-04-17 18:18:55] [INFO] [TestExecution] - Passed : 12
+[2026-04-17 18:18:55] [INFO] [TestExecution] - Failed : 0
+[2026-04-17 18:18:55] [INFO] [TestExecution] - Skipped: 0
+[2026-04-17 18:18:55] [INFO] [TestExecution] - ------------------------------
+[2026-04-17 18:18:55] [INFO] [TestExecution] - === TOTAL TESTS ===
+[2026-04-17 18:18:55] [INFO] [TestExecution] - Total  : 12
+[2026-04-17 18:18:55] [INFO] [TestExecution] - Passed : 12
+[2026-04-17 18:18:55] [INFO] [TestExecution] - Failed : 0
+[2026-04-17 18:18:55] [INFO] [TestExecution] - Skipped: 0
+[2026-04-17 18:18:55] [INFO] [TestExecution] - ===================
+[2026-04-17 18:19:44] [INFO] [TestExecution] - === TEST SUITE STARTED: Default test ===
+[2026-04-17 18:19:44] [INFO] [Profile] - ===== Starting Profile Test =====
+[2026-04-17 18:19:44] [INFO] [Profile] - Initializing AndroidDriver...
+[2026-04-17 18:19:54] [INFO] [Profile] - === STARTED: verifyOnboardingScreen ===
+[2026-04-17 18:20:10] [INFO] [Profile] - === PASSED: verifyOnboardingScreen | Reason: Test passed successfully. ===
+[2026-04-17 18:20:10] [INFO] [Profile] - === STARTED: clickNextButton ===
+[2026-04-17 18:20:10] [INFO] [Profile] - === PASSED: clickNextButton | Reason: Test passed successfully. ===
+[2026-04-17 18:20:10] [INFO] [Profile] - === STARTED: verifySecondaryScreen ===
+[2026-04-17 18:20:11] [INFO] [Profile] - === PASSED: verifySecondaryScreen | Reason: Test passed successfully. ===
+[2026-04-17 18:20:11] [INFO] [Profile] - === STARTED: clickNextButton2 ===
+[2026-04-17 18:20:12] [INFO] [Profile] - === PASSED: clickNextButton2 | Reason: Test passed successfully. ===
+[2026-04-17 18:20:12] [INFO] [Profile] - === STARTED: verifyThirdScreen ===
+[2026-04-17 18:20:13] [INFO] [Profile] - === PASSED: verifyThirdScreen | Reason: Test passed successfully. ===
+[2026-04-17 18:20:13] [INFO] [Profile] - === STARTED: clickNextButton3 ===
+[2026-04-17 18:20:14] [INFO] [Profile] - === PASSED: clickNextButton3 | Reason: Test passed successfully. ===
+[2026-04-17 18:20:14] [INFO] [Profile] - === STARTED: verifyFourthScreen ===
+[2026-04-17 18:20:15] [INFO] [Profile] - === PASSED: verifyFourthScreen | Reason: Test passed successfully. ===
+[2026-04-17 18:20:15] [INFO] [Profile] - === STARTED: clickNextButton4 ===
+[2026-04-17 18:20:15] [INFO] [Profile] - === PASSED: clickNextButton4 | Reason: Test passed successfully. ===
+[2026-04-17 18:20:15] [INFO] [Profile] - === STARTED: verifyLoginScreen ===
+[2026-04-17 18:20:17] [INFO] [Profile] - === PASSED: verifyLoginScreen | Reason: Test passed successfully. ===
+[2026-04-17 18:20:17] [INFO] [Profile] - === STARTED: validatecorrectuserisloggedinsuccessfully ===
+[2026-04-17 18:20:19] [INFO] [Profile] - === PASSED: validatecorrectuserisloggedinsuccessfully | Reason: Test passed successfully. ===
+[2026-04-17 18:20:19] [INFO] [Profile] - === STARTED: validatesubmitbutton ===
+[2026-04-17 18:20:31] [INFO] [Profile] - === PASSED: validatesubmitbutton | Reason: Test passed successfully. ===
+[2026-04-17 18:20:31] [INFO] [Profile] - === STARTED: Verifyprofilebutton ===
+[2026-04-17 18:20:35] [INFO] [Profile] - === PASSED: Verifyprofilebutton | Reason: Test passed successfully. ===
+[2026-04-17 18:20:35] [INFO] [Profile] - Keeping app open after execution (Debug Mode).
+[2026-04-17 18:20:35] [INFO] [TestExecution] - === TEST SUITE FINISHED: Default test ===
+[2026-04-17 18:20:35] [INFO] [TestExecution] - === TEST SUMMARY CLASS-WISE ===
+[2026-04-17 18:20:35] [INFO] [TestExecution] - Class: Profile
+[2026-04-17 18:20:35] [INFO] [TestExecution] - Passed : 12
+[2026-04-17 18:20:35] [INFO] [TestExecution] - Failed : 0
+[2026-04-17 18:20:35] [INFO] [TestExecution] - Skipped: 0
+[2026-04-17 18:20:35] [INFO] [TestExecution] - ------------------------------
+[2026-04-17 18:20:35] [INFO] [TestExecution] - === TOTAL TESTS ===
+[2026-04-17 18:20:35] [INFO] [TestExecution] - Total  : 12
+[2026-04-17 18:20:35] [INFO] [TestExecution] - Passed : 12
+[2026-04-17 18:20:35] [INFO] [TestExecution] - Failed : 0
+[2026-04-17 18:20:35] [INFO] [TestExecution] - Skipped: 0
+[2026-04-17 18:20:35] [INFO] [TestExecution] - ===================
+[2026-04-25 13:14:07] [INFO] [TestExecution] - === TEST SUITE STARTED: Default test ===
+[2026-04-25 13:14:07] [INFO] [LoginTest] - ===== Starting LoginTest Test =====
+[2026-04-25 13:14:07] [INFO] [LoginTest] - Initializing AndroidDriver...
+[2026-04-25 13:14:22] [INFO] [LoginTest] - === STARTED: verifyOnboardingScreen ===
+[2026-04-25 13:14:38] [INFO] [LoginTest] - === PASSED: verifyOnboardingScreen | Reason: Test passed successfully. ===
+[2026-04-25 13:14:38] [INFO] [LoginTest] - === STARTED: clickNextButton ===
+[2026-04-25 13:14:39] [INFO] [LoginTest] - === PASSED: clickNextButton | Reason: Test passed successfully. ===
+[2026-04-25 13:14:39] [INFO] [LoginTest] - === STARTED: verifySecondaryScreen ===
+[2026-04-25 13:14:40] [INFO] [LoginTest] - === PASSED: verifySecondaryScreen | Reason: Test passed successfully. ===
+[2026-04-25 13:14:40] [INFO] [LoginTest] - === STARTED: clickNextButton2 ===
+[2026-04-25 13:14:42] [INFO] [LoginTest] - === PASSED: clickNextButton2 | Reason: Test passed successfully. ===
+[2026-04-25 13:14:42] [INFO] [LoginTest] - === STARTED: verifyThirdScreen ===
+[2026-04-25 13:14:43] [INFO] [LoginTest] - === PASSED: verifyThirdScreen | Reason: Test passed successfully. ===
+[2026-04-25 13:14:43] [INFO] [LoginTest] - === STARTED: clickNextButton3 ===
+[2026-04-25 13:14:43] [INFO] [LoginTest] - === PASSED: clickNextButton3 | Reason: Test passed successfully. ===
+[2026-04-25 13:14:43] [INFO] [LoginTest] - === STARTED: verifyFourthScreen ===
+[2026-04-25 13:14:45] [INFO] [LoginTest] - === PASSED: verifyFourthScreen | Reason: Test passed successfully. ===
+[2026-04-25 13:14:45] [INFO] [LoginTest] - === STARTED: clickNextButton4 ===
+[2026-04-25 13:14:45] [INFO] [LoginTest] - === PASSED: clickNextButton4 | Reason: Test passed successfully. ===
+[2026-04-25 13:14:45] [INFO] [LoginTest] - === STARTED: verifyLoginScreen ===
+[2026-04-25 13:14:47] [INFO] [LoginTest] - === PASSED: verifyLoginScreen | Reason: Test passed successfully. ===
+[2026-04-25 13:14:47] [INFO] [LoginTest] - === STARTED: enterPhoneNumber ===
+[2026-04-25 13:14:49] [INFO] [LoginTest] - === PASSED: enterPhoneNumber | Reason: Test passed successfully. ===
+[2026-04-25 13:14:49] [INFO] [LoginTest] - === STARTED: validateUserNotAvailablePopup ===
+[2026-04-25 13:14:51] [INFO] [LoginTest] - === PASSED: validateUserNotAvailablePopup | Reason: Test passed successfully. ===
+[2026-04-25 13:14:51] [INFO] [LoginTest] - === STARTED: validatePleaseenter10digitnoPopup ===
+[2026-04-25 13:14:54] [INFO] [LoginTest] - === PASSED: validatePleaseenter10digitnoPopup | Reason: Test passed successfully. ===
+[2026-04-25 13:14:54] [INFO] [LoginTest] - === STARTED: validatemorethan10digitno ===
+[2026-04-25 13:14:55] [INFO] [LoginTest] - === PASSED: validatemorethan10digitno | Reason: Test passed successfully. ===
+[2026-04-25 13:14:55] [INFO] [LoginTest] - === STARTED: validatealphabeticcharacteracceptance ===
+[2026-04-25 13:14:57] [INFO] [LoginTest] - === PASSED: validatealphabeticcharacteracceptance | Reason: Test passed successfully. ===
+[2026-04-25 13:14:57] [INFO] [LoginTest] - === STARTED: validatecorrectuserisloggedinsuccessfully ===
+[2026-04-25 13:15:01] [INFO] [LoginTest] - === PASSED: validatecorrectuserisloggedinsuccessfully | Reason: Test passed successfully. ===
+[2026-04-25 13:15:01] [INFO] [LoginTest] - === STARTED: validatemissingOTP ===
+[2026-04-25 13:15:05] [INFO] [LoginTest] - === PASSED: validatemissingOTP | Reason: Test passed successfully. ===
+[2026-04-25 13:15:06] [INFO] [LoginTest] - === STARTED: validateincorrectOTP ===
+[2026-04-25 13:23:32] [ERROR] [LoginTest] - === FAILED: validateincorrectOTP | Reason: Element not clickable: AppiumBy.androidUIAutomator: new UiSelector().resourceId("button") | Expected condition failed: waiting for element to be clickable: AppiumBy.androidUIAutomator: new UiSelector().resourceId("button") (tried for 500 second(s) wi... | Screenshot: screenshots/LoginTest_validateincorrectOTP_20260425_132331.png ===
+[2026-04-25 13:23:32] [INFO] [LoginTest] - === STARTED: validateResendAndSubmitFlow ===
+[2026-04-25 13:31:55] [ERROR] [LoginTest] - === FAILED: validateResendAndSubmitFlow | Reason: Element not clickable: AppiumBy.androidUIAutomator: new UiSelector().text("Resend") | Expected condition failed: waiting for element to be clickable: AppiumBy.androidUIAutomator: new UiSelector().text("Resend") (tried for 500 second(s) with 500 milli... | Screenshot: screenshots/LoginTest_validateResendAndSubmitFlow_20260425_133154.png ===
+[2026-04-25 13:31:55] [INFO] [LoginTest] - === STARTED: hamburgermenu ===
+[2026-04-25 14:54:23] [INFO] [TestExecution] - === TEST SUITE FINISHED: Default test ===
+[2026-04-25 14:54:23] [INFO] [TestExecution] - === TEST SUMMARY CLASS-WISE ===
+[2026-04-25 14:54:23] [INFO] [TestExecution] - Class: LoginTest
+[2026-04-25 14:54:23] [INFO] [TestExecution] - Passed : 16
+[2026-04-25 14:54:23] [INFO] [TestExecution] - Failed : 4
+[2026-04-25 14:54:23] [INFO] [TestExecution] - Skipped: 0
+[2026-04-25 14:54:23] [INFO] [TestExecution] - Failed Reasons:
+[2026-04-25 14:54:23] [INFO] [TestExecution] -  - validateincorrectOTP -> Element not clickable: AppiumBy.androidUIAutomator: new UiSelector().resourceId("button") | Expected condition failed: waiting for element to be clickable: AppiumBy.androidUIAutomator: new UiSelector().resourceId("button") (tried for 500 second(s) wi...
+[2026-04-25 14:54:23] [INFO] [TestExecution] -  - validateResendAndSubmitFlow -> Element not clickable: AppiumBy.androidUIAutomator: new UiSelector().text("Resend") | Expected condition failed: waiting for element to be clickable: AppiumBy.androidUIAutomator: new UiSelector().text("Resend") (tried for 500 second(s) with 500 milli...
+[2026-04-25 14:54:23] [INFO] [TestExecution] -  - hamburgermenu -> Element not clickable: AppiumBy.androidUIAutomator: new UiSelector().className("android.view.ViewGroup").instance(58) | A session is either terminated or not started
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Window...
+[2026-04-25 14:54:23] [INFO] [TestExecution] -  - hamburgermenu -> Element not clickable: AppiumBy.androidUIAutomator: new UiSelector().className("android.view.ViewGroup").instance(58) | A session is either terminated or not started
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Window...
+[2026-04-25 14:54:23] [INFO] [TestExecution] - ------------------------------
+[2026-04-25 14:54:23] [INFO] [TestExecution] - === TOTAL TESTS ===
+[2026-04-25 14:54:23] [INFO] [TestExecution] - Total  : 20
+[2026-04-25 14:54:23] [INFO] [TestExecution] - Passed : 16
+[2026-04-25 14:54:23] [INFO] [TestExecution] - Failed : 4
+[2026-04-25 14:54:23] [INFO] [TestExecution] - Skipped: 0
+[2026-04-25 14:54:23] [INFO] [TestExecution] - ===================
+[2026-04-25 15:14:28] [INFO] [TestExecution] - === TEST SUITE STARTED: Default test ===
+[2026-04-25 15:14:28] [INFO] [Profile] - ===== Starting Profile Test =====
+[2026-04-25 15:14:28] [INFO] [Profile] - Initializing AndroidDriver...
+[2026-04-25 15:14:39] [INFO] [Profile] - === STARTED: verifyOnboardingScreen ===
+[2026-04-25 15:14:55] [INFO] [Profile] - === PASSED: verifyOnboardingScreen | Reason: Test passed successfully. ===
+[2026-04-25 15:14:55] [INFO] [Profile] - === STARTED: clickNextButton ===
+[2026-04-25 15:14:55] [INFO] [Profile] - === PASSED: clickNextButton | Reason: Test passed successfully. ===
+[2026-04-25 15:14:55] [INFO] [Profile] - === STARTED: verifySecondaryScreen ===
+[2026-04-25 15:14:56] [INFO] [Profile] - === PASSED: verifySecondaryScreen | Reason: Test passed successfully. ===
+[2026-04-25 15:14:56] [INFO] [Profile] - === STARTED: clickNextButton2 ===
+[2026-04-25 15:14:57] [INFO] [Profile] - === PASSED: clickNextButton2 | Reason: Test passed successfully. ===
+[2026-04-25 15:14:57] [INFO] [Profile] - === STARTED: verifyThirdScreen ===
+[2026-04-25 15:14:59] [INFO] [Profile] - === PASSED: verifyThirdScreen | Reason: Test passed successfully. ===
+[2026-04-25 15:14:59] [INFO] [Profile] - === STARTED: clickNextButton3 ===
+[2026-04-25 15:14:59] [INFO] [Profile] - === PASSED: clickNextButton3 | Reason: Test passed successfully. ===
+[2026-04-25 15:14:59] [INFO] [Profile] - === STARTED: verifyFourthScreen ===
+[2026-04-25 15:15:00] [INFO] [Profile] - === PASSED: verifyFourthScreen | Reason: Test passed successfully. ===
+[2026-04-25 15:15:00] [INFO] [Profile] - === STARTED: clickNextButton4 ===
+[2026-04-25 15:15:01] [INFO] [Profile] - === PASSED: clickNextButton4 | Reason: Test passed successfully. ===
+[2026-04-25 15:15:01] [INFO] [Profile] - === STARTED: verifyLoginScreen ===
+[2026-04-25 15:15:02] [INFO] [Profile] - === PASSED: verifyLoginScreen | Reason: Test passed successfully. ===
+[2026-04-25 15:15:02] [INFO] [Profile] - === STARTED: validatecorrectuserisloggedinsuccessfully ===
+[2026-04-25 15:15:04] [INFO] [Profile] - === PASSED: validatecorrectuserisloggedinsuccessfully | Reason: Test passed successfully. ===
+[2026-04-25 15:15:04] [INFO] [Profile] - === STARTED: validatesubmitbutton ===
+[2026-04-25 15:15:57] [INFO] [Profile] - === PASSED: validatesubmitbutton | Reason: Test passed successfully. ===
+[2026-04-25 15:15:57] [INFO] [Profile] - === STARTED: Verifyprofilebutton ===
+[2026-04-25 15:21:57] [ERROR] [Profile] - === FAILED: Verifyprofilebutton | Reason: Element not visible: By.xpath: //android.widget.TextView[@text='Profile'] | Expected condition failed: waiting for visibility of element located by By.xpath: //android.widget.TextView[@text='Profile'] (tried for 180 second(s) with 500 milliseconds in... | Screenshot: screenshots/Profile_Verifyprofilebutton_20260425_152156.png ===
+[2026-04-25 15:21:57] [INFO] [Profile] - Keeping app open after execution (Debug Mode).
+[2026-04-25 15:21:57] [INFO] [TestExecution] - === TEST SUITE FINISHED: Default test ===
+[2026-04-25 15:21:57] [INFO] [TestExecution] - === TEST SUMMARY CLASS-WISE ===
+[2026-04-25 15:21:57] [INFO] [TestExecution] - Class: Profile
+[2026-04-25 15:21:57] [INFO] [TestExecution] - Passed : 11
+[2026-04-25 15:21:57] [INFO] [TestExecution] - Failed : 1
+[2026-04-25 15:21:57] [INFO] [TestExecution] - Skipped: 0
+[2026-04-25 15:21:57] [INFO] [TestExecution] - Failed Reasons:
+[2026-04-25 15:21:57] [INFO] [TestExecution] -  - Verifyprofilebutton -> Element not visible: By.xpath: //android.widget.TextView[@text='Profile'] | Expected condition failed: waiting for visibility of element located by By.xpath: //android.widget.TextView[@text='Profile'] (tried for 180 second(s) with 500 milliseconds in...
+[2026-04-25 15:21:57] [INFO] [TestExecution] - ------------------------------
+[2026-04-25 15:21:57] [INFO] [TestExecution] - === TOTAL TESTS ===
+[2026-04-25 15:21:57] [INFO] [TestExecution] - Total  : 12
+[2026-04-25 15:21:57] [INFO] [TestExecution] - Passed : 11
+[2026-04-25 15:21:57] [INFO] [TestExecution] - Failed : 1
+[2026-04-25 15:21:57] [INFO] [TestExecution] - Skipped: 0
+[2026-04-25 15:21:57] [INFO] [TestExecution] - ===================
+[2026-04-25 15:31:57] [INFO] [TestExecution] - === TEST SUITE STARTED: Default test ===
+[2026-04-25 15:31:57] [INFO] [Profile] - ===== Starting Profile Test =====
+[2026-04-25 15:31:57] [INFO] [Profile] - Initializing AndroidDriver...
+[2026-04-25 15:32:08] [INFO] [Profile] - === STARTED: verifyOnboardingScreen ===
+[2026-04-25 15:32:24] [INFO] [Profile] - === PASSED: verifyOnboardingScreen | Reason: Test passed successfully. ===
+[2026-04-25 15:32:24] [INFO] [Profile] - === STARTED: clickNextButton ===
+[2026-04-25 15:32:24] [INFO] [Profile] - === PASSED: clickNextButton | Reason: Test passed successfully. ===
+[2026-04-25 15:32:24] [INFO] [Profile] - === STARTED: verifySecondaryScreen ===
+[2026-04-25 15:32:25] [INFO] [Profile] - === PASSED: verifySecondaryScreen | Reason: Test passed successfully. ===
+[2026-04-25 15:32:25] [INFO] [Profile] - === STARTED: clickNextButton2 ===
+[2026-04-25 15:32:26] [INFO] [Profile] - === PASSED: clickNextButton2 | Reason: Test passed successfully. ===
+[2026-04-25 15:32:26] [INFO] [Profile] - === STARTED: verifyThirdScreen ===
+[2026-04-25 15:32:28] [INFO] [Profile] - === PASSED: verifyThirdScreen | Reason: Test passed successfully. ===
+[2026-04-25 15:32:28] [INFO] [Profile] - === STARTED: clickNextButton3 ===
+[2026-04-25 15:32:29] [INFO] [Profile] - === PASSED: clickNextButton3 | Reason: Test passed successfully. ===
+[2026-04-25 15:32:29] [INFO] [Profile] - === STARTED: verifyFourthScreen ===
+[2026-04-25 15:32:30] [INFO] [Profile] - === PASSED: verifyFourthScreen | Reason: Test passed successfully. ===
+[2026-04-25 15:32:30] [INFO] [Profile] - === STARTED: clickNextButton4 ===
+[2026-04-25 15:32:30] [INFO] [Profile] - === PASSED: clickNextButton4 | Reason: Test passed successfully. ===
+[2026-04-25 15:32:30] [INFO] [Profile] - === STARTED: verifyLoginScreen ===
+[2026-04-25 15:32:31] [INFO] [Profile] - === PASSED: verifyLoginScreen | Reason: Test passed successfully. ===
+[2026-04-25 15:32:31] [INFO] [Profile] - === STARTED: validatecorrectuserisloggedinsuccessfully ===
+[2026-04-25 15:32:33] [INFO] [Profile] - === PASSED: validatecorrectuserisloggedinsuccessfully | Reason: Test passed successfully. ===
+[2026-04-25 15:32:33] [INFO] [Profile] - === STARTED: validatesubmitbutton ===
+[2026-04-25 15:32:57] [INFO] [Profile] - === PASSED: validatesubmitbutton | Reason: Test passed successfully. ===
+[2026-04-25 15:32:57] [INFO] [Profile] - === STARTED: Verifyprofilebutton ===
+[2026-04-25 15:35:03] [INFO] [Profile] - Tapping bottom nav [right] at (612, 1488)
+[2026-04-25 15:35:03] [INFO] [Profile] - Tapped at coordinates: (612, 1488)
+[2026-04-25 15:38:04] [INFO] [Profile] - Tapping bottom nav [right] at (612, 1488)
+[2026-04-25 15:38:04] [INFO] [Profile] - Tapped at coordinates: (612, 1488)
+[2026-04-25 15:41:05] [INFO] [Profile] - Tapping bottom nav [right] at (612, 1488)
+[2026-04-25 15:41:05] [INFO] [Profile] - Tapped at coordinates: (612, 1488)
+[2026-04-25 15:44:07] [ERROR] [Profile] - === FAILED: Verifyprofilebutton | Reason: Element not visible: By.xpath: //android.widget.TextView[@text='Profile'] | Expected condition failed: waiting for visibility of element located by By.xpath: //android.widget.TextView[@text='Profile'] (tried for 180 second(s) with 500 milliseconds in... | Screenshot: screenshots/Profile_Verifyprofilebutton_20260425_154406.png ===
+[2026-04-25 15:44:07] [INFO] [Profile] - Keeping app open after execution (Debug Mode).
+[2026-04-25 15:44:07] [INFO] [TestExecution] - === TEST SUITE FINISHED: Default test ===
+[2026-04-25 15:44:07] [INFO] [TestExecution] - === TEST SUMMARY CLASS-WISE ===
+[2026-04-25 15:44:07] [INFO] [TestExecution] - Class: Profile
+[2026-04-25 15:44:07] [INFO] [TestExecution] - Passed : 11
+[2026-04-25 15:44:07] [INFO] [TestExecution] - Failed : 1
+[2026-04-25 15:44:07] [INFO] [TestExecution] - Skipped: 0
+[2026-04-25 15:44:07] [INFO] [TestExecution] - Failed Reasons:
+[2026-04-25 15:44:07] [INFO] [TestExecution] -  - Verifyprofilebutton -> Element not visible: By.xpath: //android.widget.TextView[@text='Profile'] | Expected condition failed: waiting for visibility of element located by By.xpath: //android.widget.TextView[@text='Profile'] (tried for 180 second(s) with 500 milliseconds in...
+[2026-04-25 15:44:07] [INFO] [TestExecution] - ------------------------------
+[2026-04-25 15:44:07] [INFO] [TestExecution] - === TOTAL TESTS ===
+[2026-04-25 15:44:07] [INFO] [TestExecution] - Total  : 12
+[2026-04-25 15:44:07] [INFO] [TestExecution] - Passed : 11
+[2026-04-25 15:44:07] [INFO] [TestExecution] - Failed : 1
+[2026-04-25 15:44:07] [INFO] [TestExecution] - Skipped: 0
+[2026-04-25 15:44:07] [INFO] [TestExecution] - ===================
+[2026-04-28 15:50:29] [INFO] [TestExecution] - === TEST SUITE STARTED: Default test ===
+[2026-04-28 15:50:29] [INFO] [Profile] - ===== Starting Profile Test =====
+[2026-04-28 15:50:29] [INFO] [Profile] - Initializing AndroidDriver...
+[2026-04-28 15:50:39] [INFO] [Profile] - === STARTED: verifyOnboardingScreen ===
+[2026-04-28 15:50:53] [INFO] [Profile] - === PASSED: verifyOnboardingScreen | Reason: Test passed successfully. ===
+[2026-04-28 15:50:53] [INFO] [Profile] - === STARTED: clickNextButton ===
+[2026-04-28 15:50:53] [INFO] [Profile] - === PASSED: clickNextButton | Reason: Test passed successfully. ===
+[2026-04-28 15:50:53] [INFO] [Profile] - === STARTED: verifySecondaryScreen ===
+[2026-04-28 15:50:55] [INFO] [Profile] - === PASSED: verifySecondaryScreen | Reason: Test passed successfully. ===
+[2026-04-28 15:50:55] [INFO] [Profile] - === STARTED: clickNextButton2 ===
+[2026-04-28 15:50:56] [INFO] [Profile] - === PASSED: clickNextButton2 | Reason: Test passed successfully. ===
+[2026-04-28 15:50:56] [INFO] [Profile] - === STARTED: verifyThirdScreen ===
+[2026-04-28 15:50:57] [INFO] [Profile] - === PASSED: verifyThirdScreen | Reason: Test passed successfully. ===
+[2026-04-28 15:50:57] [INFO] [Profile] - === STARTED: clickNextButton3 ===
+[2026-04-28 15:50:57] [INFO] [Profile] - === PASSED: clickNextButton3 | Reason: Test passed successfully. ===
+[2026-04-28 15:50:57] [INFO] [Profile] - === STARTED: verifyFourthScreen ===
+[2026-04-28 15:50:59] [INFO] [Profile] - === PASSED: verifyFourthScreen | Reason: Test passed successfully. ===
+[2026-04-28 15:50:59] [INFO] [Profile] - === STARTED: clickNextButton4 ===
+[2026-04-28 15:51:00] [INFO] [Profile] - === PASSED: clickNextButton4 | Reason: Test passed successfully. ===
+[2026-04-28 15:51:00] [INFO] [Profile] - === STARTED: verifyLoginScreen ===
+[2026-04-28 15:51:01] [INFO] [Profile] - === PASSED: verifyLoginScreen | Reason: Test passed successfully. ===
+[2026-04-28 15:51:01] [INFO] [Profile] - === STARTED: validatecorrectuserisloggedinsuccessfully ===
+[2026-04-28 15:51:02] [INFO] [Profile] - === PASSED: validatecorrectuserisloggedinsuccessfully | Reason: Test passed successfully. ===
+[2026-04-28 15:51:02] [INFO] [Profile] - === STARTED: validatesubmitbutton ===
+[2026-04-28 15:51:58] [INFO] [TestExecution] - === TEST SUITE STARTED: Default test ===
+[2026-04-28 15:51:58] [INFO] [Profile] - ===== Starting Profile Test =====
+[2026-04-28 15:51:58] [INFO] [Profile] - Initializing AndroidDriver...
+[2026-04-28 15:52:02] [INFO] [TestExecution] - === TEST SUITE FINISHED: Default test ===
+[2026-04-28 15:52:02] [INFO] [TestExecution] - === TEST SUMMARY CLASS-WISE ===
+[2026-04-28 15:52:02] [INFO] [TestExecution] - Class: Profile
+[2026-04-28 15:52:02] [INFO] [TestExecution] - Passed : 10
+[2026-04-28 15:52:02] [INFO] [TestExecution] - Failed : 2
+[2026-04-28 15:52:02] [INFO] [TestExecution] - Skipped: 0
+[2026-04-28 15:52:02] [INFO] [TestExecution] - Failed Reasons:
+[2026-04-28 15:52:02] [INFO] [TestExecution] -  - validatesubmitbutton -> Element not clickable: AppiumBy.androidUIAutomator: new UiSelector().description("Submit, ") | Could not proxy command to the remote server. Original error: socket hang up
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: ...
+[2026-04-28 15:52:02] [INFO] [TestExecution] -  - validatesubmitbutton -> Element not clickable: AppiumBy.androidUIAutomator: new UiSelector().description("Submit, ") | Could not proxy command to the remote server. Original error: socket hang up
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: ...
+[2026-04-28 15:52:02] [INFO] [TestExecution] - ------------------------------
+[2026-04-28 15:52:02] [INFO] [TestExecution] - === TOTAL TESTS ===
+[2026-04-28 15:52:02] [INFO] [TestExecution] - Total  : 12
+[2026-04-28 15:52:02] [INFO] [TestExecution] - Passed : 10
+[2026-04-28 15:52:02] [INFO] [TestExecution] - Failed : 2
+[2026-04-28 15:52:02] [INFO] [TestExecution] - Skipped: 0
+[2026-04-28 15:52:02] [INFO] [TestExecution] - ===================
+[2026-04-28 15:52:09] [INFO] [Profile] - === STARTED: verifyOnboardingScreen ===
+[2026-04-28 15:52:26] [INFO] [Profile] - === PASSED: verifyOnboardingScreen | Reason: Test passed successfully. ===
+[2026-04-28 15:52:26] [INFO] [Profile] - === STARTED: clickNextButton ===
+[2026-04-28 15:52:26] [INFO] [Profile] - === PASSED: clickNextButton | Reason: Test passed successfully. ===
+[2026-04-28 15:52:26] [INFO] [Profile] - === STARTED: verifySecondaryScreen ===
+[2026-04-28 15:52:27] [INFO] [Profile] - === PASSED: verifySecondaryScreen | Reason: Test passed successfully. ===
+[2026-04-28 15:52:27] [INFO] [Profile] - === STARTED: clickNextButton2 ===
+[2026-04-28 15:52:28] [INFO] [Profile] - === PASSED: clickNextButton2 | Reason: Test passed successfully. ===
+[2026-04-28 15:52:28] [INFO] [Profile] - === STARTED: verifyThirdScreen ===
+[2026-04-28 15:52:30] [INFO] [Profile] - === PASSED: verifyThirdScreen | Reason: Test passed successfully. ===
+[2026-04-28 15:52:30] [INFO] [Profile] - === STARTED: clickNextButton3 ===
+[2026-04-28 15:52:30] [INFO] [Profile] - === PASSED: clickNextButton3 | Reason: Test passed successfully. ===
+[2026-04-28 15:52:30] [INFO] [Profile] - === STARTED: verifyFourthScreen ===
+[2026-04-28 15:52:31] [INFO] [Profile] - === PASSED: verifyFourthScreen | Reason: Test passed successfully. ===
+[2026-04-28 15:52:31] [INFO] [Profile] - === STARTED: clickNextButton4 ===
+[2026-04-28 15:52:32] [INFO] [Profile] - === PASSED: clickNextButton4 | Reason: Test passed successfully. ===
+[2026-04-28 15:52:32] [INFO] [Profile] - === STARTED: verifyLoginScreen ===
+[2026-04-28 15:52:33] [INFO] [Profile] - === PASSED: verifyLoginScreen | Reason: Test passed successfully. ===
+[2026-04-28 15:52:33] [INFO] [Profile] - === STARTED: validatecorrectuserisloggedinsuccessfully ===
+[2026-04-28 15:52:35] [INFO] [Profile] - === PASSED: validatecorrectuserisloggedinsuccessfully | Reason: Test passed successfully. ===
+[2026-04-28 15:52:35] [INFO] [Profile] - === STARTED: validatesubmitbutton ===
+[2026-04-28 15:53:51] [INFO] [TestExecution] - === TEST SUITE STARTED: Default test ===
+[2026-04-28 15:53:51] [INFO] [Profile] - ===== Starting Profile Test =====
+[2026-04-28 15:53:51] [INFO] [Profile] - Initializing AndroidDriver...
+[2026-04-28 15:54:01] [INFO] [Profile] - === STARTED: verifyOnboardingScreen ===
+[2026-04-28 15:54:17] [INFO] [Profile] - === PASSED: verifyOnboardingScreen | Reason: Test passed successfully. ===
+[2026-04-28 15:54:17] [INFO] [Profile] - === STARTED: clickNextButton ===
+[2026-04-28 15:54:17] [INFO] [Profile] - === PASSED: clickNextButton | Reason: Test passed successfully. ===
+[2026-04-28 15:54:17] [INFO] [Profile] - === STARTED: verifySecondaryScreen ===
+[2026-04-28 15:54:18] [INFO] [Profile] - === PASSED: verifySecondaryScreen | Reason: Test passed successfully. ===
+[2026-04-28 15:54:18] [INFO] [Profile] - === STARTED: clickNextButton2 ===
+[2026-04-28 15:54:19] [INFO] [Profile] - === PASSED: clickNextButton2 | Reason: Test passed successfully. ===
+[2026-04-28 15:54:19] [INFO] [Profile] - === STARTED: verifyThirdScreen ===
+[2026-04-28 15:54:20] [INFO] [Profile] - === PASSED: verifyThirdScreen | Reason: Test passed successfully. ===
+[2026-04-28 15:54:20] [INFO] [Profile] - === STARTED: clickNextButton3 ===
+[2026-04-28 15:54:21] [INFO] [Profile] - === PASSED: clickNextButton3 | Reason: Test passed successfully. ===
+[2026-04-28 15:54:21] [INFO] [Profile] - === STARTED: verifyFourthScreen ===
+[2026-04-28 15:54:22] [INFO] [Profile] - === PASSED: verifyFourthScreen | Reason: Test passed successfully. ===
+[2026-04-28 15:54:22] [INFO] [Profile] - === STARTED: clickNextButton4 ===
+[2026-04-28 15:54:22] [INFO] [Profile] - === PASSED: clickNextButton4 | Reason: Test passed successfully. ===
+[2026-04-28 15:54:22] [INFO] [Profile] - === STARTED: verifyLoginScreen ===
+[2026-04-28 15:54:23] [INFO] [Profile] - === PASSED: verifyLoginScreen | Reason: Test passed successfully. ===
+[2026-04-28 15:54:23] [INFO] [Profile] - === STARTED: validatecorrectuserisloggedinsuccessfully ===
+[2026-04-28 15:54:25] [INFO] [Profile] - === PASSED: validatecorrectuserisloggedinsuccessfully | Reason: Test passed successfully. ===
+[2026-04-28 15:54:25] [INFO] [Profile] - === STARTED: validatesubmitbutton ===
+[2026-04-28 15:54:27] [INFO] [Profile] - === PASSED: validatesubmitbutton | Reason: Test passed successfully. ===
+[2026-04-28 15:54:27] [INFO] [Profile] - === STARTED: Verifyprofilebutton ===
+[2026-04-28 15:56:41] [INFO] [Profile] - === PASSED: Verifyprofilebutton | Reason: Test passed successfully. ===
+[2026-04-28 15:56:41] [INFO] [Profile] - Keeping app open after execution (Debug Mode).
+[2026-04-28 15:56:41] [INFO] [TestExecution] - === TEST SUITE FINISHED: Default test ===
+[2026-04-28 15:56:41] [INFO] [TestExecution] - === TEST SUMMARY CLASS-WISE ===
+[2026-04-28 15:56:41] [INFO] [TestExecution] - Class: Profile
+[2026-04-28 15:56:41] [INFO] [TestExecution] - Passed : 12
+[2026-04-28 15:56:41] [INFO] [TestExecution] - Failed : 0
+[2026-04-28 15:56:41] [INFO] [TestExecution] - Skipped: 0
+[2026-04-28 15:56:41] [INFO] [TestExecution] - ------------------------------
+[2026-04-28 15:56:41] [INFO] [TestExecution] - === TOTAL TESTS ===
+[2026-04-28 15:56:41] [INFO] [TestExecution] - Total  : 12
+[2026-04-28 15:56:41] [INFO] [TestExecution] - Passed : 12
+[2026-04-28 15:56:41] [INFO] [TestExecution] - Failed : 0
+[2026-04-28 15:56:41] [INFO] [TestExecution] - Skipped: 0
+[2026-04-28 15:56:41] [INFO] [TestExecution] - ===================
+[2026-04-28 15:57:46] [INFO] [TestExecution] - === TEST SUITE STARTED: Default test ===
+[2026-04-28 15:57:46] [INFO] [Profile] - ===== Starting Profile Test =====
+[2026-04-28 15:57:46] [INFO] [Profile] - Initializing AndroidDriver...
+[2026-04-28 15:57:54] [INFO] [Profile] - === STARTED: verifyOnboardingScreen ===
+[2026-04-28 15:58:10] [INFO] [Profile] - === PASSED: verifyOnboardingScreen | Reason: Test passed successfully. ===
+[2026-04-28 15:58:10] [INFO] [Profile] - === STARTED: clickNextButton ===
+[2026-04-28 15:58:10] [INFO] [Profile] - === PASSED: clickNextButton | Reason: Test passed successfully. ===
+[2026-04-28 15:58:10] [INFO] [Profile] - === STARTED: verifySecondaryScreen ===
+[2026-04-28 15:58:12] [INFO] [Profile] - === PASSED: verifySecondaryScreen | Reason: Test passed successfully. ===
+[2026-04-28 15:58:12] [INFO] [Profile] - === STARTED: clickNextButton2 ===
+[2026-04-28 15:58:12] [INFO] [Profile] - === PASSED: clickNextButton2 | Reason: Test passed successfully. ===
+[2026-04-28 15:58:12] [INFO] [Profile] - === STARTED: verifyThirdScreen ===
+[2026-04-28 15:58:14] [INFO] [Profile] - === PASSED: verifyThirdScreen | Reason: Test passed successfully. ===
+[2026-04-28 15:58:14] [INFO] [Profile] - === STARTED: clickNextButton3 ===
+[2026-04-28 15:58:15] [INFO] [Profile] - === PASSED: clickNextButton3 | Reason: Test passed successfully. ===
+[2026-04-28 15:58:15] [INFO] [Profile] - === STARTED: verifyFourthScreen ===
+[2026-04-28 15:58:16] [INFO] [Profile] - === PASSED: verifyFourthScreen | Reason: Test passed successfully. ===
+[2026-04-28 15:58:16] [INFO] [Profile] - === STARTED: clickNextButton4 ===
+[2026-04-28 15:58:16] [INFO] [Profile] - === PASSED: clickNextButton4 | Reason: Test passed successfully. ===
+[2026-04-28 15:58:16] [INFO] [Profile] - === STARTED: verifyLoginScreen ===
+[2026-04-28 15:58:17] [INFO] [Profile] - === PASSED: verifyLoginScreen | Reason: Test passed successfully. ===
+[2026-04-28 15:58:17] [INFO] [Profile] - === STARTED: validatecorrectuserisloggedinsuccessfully ===
+[2026-04-28 15:58:19] [INFO] [Profile] - === PASSED: validatecorrectuserisloggedinsuccessfully | Reason: Test passed successfully. ===
+[2026-04-28 15:58:19] [INFO] [Profile] - === STARTED: validatesubmitbutton ===
+[2026-04-28 15:58:22] [INFO] [Profile] - === PASSED: validatesubmitbutton | Reason: Test passed successfully. ===
+[2026-04-28 15:58:22] [INFO] [Profile] - === STARTED: Verifyprofilebutton ===
+[2026-04-28 16:00:54] [INFO] [Profile] - === PASSED: Verifyprofilebutton | Reason: Test passed successfully. ===
+[2026-04-28 16:00:54] [INFO] [Profile] - Keeping app open after execution (Debug Mode).
+[2026-04-28 16:00:54] [INFO] [TestExecution] - === TEST SUITE FINISHED: Default test ===
+[2026-04-28 16:00:54] [INFO] [TestExecution] - === TEST SUMMARY CLASS-WISE ===
+[2026-04-28 16:00:54] [INFO] [TestExecution] - Class: Profile
+[2026-04-28 16:00:54] [INFO] [TestExecution] - Passed : 12
+[2026-04-28 16:00:54] [INFO] [TestExecution] - Failed : 0
+[2026-04-28 16:00:54] [INFO] [TestExecution] - Skipped: 0
+[2026-04-28 16:00:54] [INFO] [TestExecution] - ------------------------------
+[2026-04-28 16:00:54] [INFO] [TestExecution] - === TOTAL TESTS ===
+[2026-04-28 16:00:54] [INFO] [TestExecution] - Total  : 12
+[2026-04-28 16:00:54] [INFO] [TestExecution] - Passed : 12
+[2026-04-28 16:00:54] [INFO] [TestExecution] - Failed : 0
+[2026-04-28 16:00:54] [INFO] [TestExecution] - Skipped: 0
+[2026-04-28 16:00:54] [INFO] [TestExecution] - ===================
+[2026-04-28 16:03:13] [INFO] [TestExecution] - === TEST SUITE STARTED: Default test ===
+[2026-04-28 16:03:13] [INFO] [Profile] - ===== Starting Profile Test =====
+[2026-04-28 16:03:13] [INFO] [Profile] - Initializing AndroidDriver...
+[2026-04-28 16:03:22] [INFO] [Profile] - === STARTED: verifyOnboardingScreen ===
+[2026-04-28 16:03:38] [INFO] [Profile] - === PASSED: verifyOnboardingScreen | Reason: Test passed successfully. ===
+[2026-04-28 16:03:38] [INFO] [Profile] - === STARTED: clickNextButton ===
+[2026-04-28 16:03:38] [INFO] [Profile] - === PASSED: clickNextButton | Reason: Test passed successfully. ===
+[2026-04-28 16:03:38] [INFO] [Profile] - === STARTED: verifySecondaryScreen ===
+[2026-04-28 16:03:39] [INFO] [Profile] - === PASSED: verifySecondaryScreen | Reason: Test passed successfully. ===
+[2026-04-28 16:03:39] [INFO] [Profile] - === STARTED: clickNextButton2 ===
+[2026-04-28 16:03:40] [INFO] [Profile] - === PASSED: clickNextButton2 | Reason: Test passed successfully. ===
+[2026-04-28 16:03:40] [INFO] [Profile] - === STARTED: verifyThirdScreen ===
+[2026-04-28 16:03:41] [INFO] [Profile] - === PASSED: verifyThirdScreen | Reason: Test passed successfully. ===
+[2026-04-28 16:03:41] [INFO] [Profile] - === STARTED: clickNextButton3 ===
+[2026-04-28 16:03:42] [INFO] [Profile] - === PASSED: clickNextButton3 | Reason: Test passed successfully. ===
+[2026-04-28 16:03:42] [INFO] [Profile] - === STARTED: verifyFourthScreen ===
+[2026-04-28 16:03:44] [INFO] [Profile] - === PASSED: verifyFourthScreen | Reason: Test passed successfully. ===
+[2026-04-28 16:03:44] [INFO] [Profile] - === STARTED: clickNextButton4 ===
+[2026-04-28 16:03:44] [INFO] [Profile] - === PASSED: clickNextButton4 | Reason: Test passed successfully. ===
+[2026-04-28 16:03:44] [INFO] [Profile] - === STARTED: verifyLoginScreen ===
+[2026-04-28 16:03:45] [INFO] [Profile] - === PASSED: verifyLoginScreen | Reason: Test passed successfully. ===
+[2026-04-28 16:03:45] [INFO] [Profile] - === STARTED: validatecorrectuserisloggedinsuccessfully ===
+[2026-04-28 16:03:47] [INFO] [Profile] - === PASSED: validatecorrectuserisloggedinsuccessfully | Reason: Test passed successfully. ===
+[2026-04-28 16:03:47] [INFO] [Profile] - === STARTED: validatesubmitbutton ===
+[2026-04-28 16:03:49] [INFO] [Profile] - === PASSED: validatesubmitbutton | Reason: Test passed successfully. ===
+[2026-04-28 16:03:49] [INFO] [Profile] - === STARTED: Verifyprofilebutton ===
+[2026-04-28 16:06:12] [INFO] [Profile] - === PASSED: Verifyprofilebutton | Reason: Test passed successfully. ===
+[2026-04-28 16:06:12] [INFO] [Profile] - Keeping app open after execution (Debug Mode).
+[2026-04-28 16:06:12] [INFO] [TestExecution] - === TEST SUITE FINISHED: Default test ===
+[2026-04-28 16:06:12] [INFO] [TestExecution] - === TEST SUMMARY CLASS-WISE ===
+[2026-04-28 16:06:12] [INFO] [TestExecution] - Class: Profile
+[2026-04-28 16:06:12] [INFO] [TestExecution] - Passed : 12
+[2026-04-28 16:06:12] [INFO] [TestExecution] - Failed : 0
+[2026-04-28 16:06:12] [INFO] [TestExecution] - Skipped: 0
+[2026-04-28 16:06:12] [INFO] [TestExecution] - ------------------------------
+[2026-04-28 16:06:12] [INFO] [TestExecution] - === TOTAL TESTS ===
+[2026-04-28 16:06:12] [INFO] [TestExecution] - Total  : 12
+[2026-04-28 16:06:12] [INFO] [TestExecution] - Passed : 12
+[2026-04-28 16:06:12] [INFO] [TestExecution] - Failed : 0
+[2026-04-28 16:06:12] [INFO] [TestExecution] - Skipped: 0
+[2026-04-28 16:06:12] [INFO] [TestExecution] - ===================
+[2026-05-11 15:39:28] [INFO] [TestExecution] - === TEST SUITE STARTED: Default test ===
+[2026-05-11 15:39:28] [INFO] [Profile] - ===== Starting Profile Test =====
+[2026-05-11 15:39:28] [INFO] [Profile] - Initializing AndroidDriver...
+[2026-05-11 15:39:41] [INFO] [Profile] - === STARTED: verifyOnboardingScreen ===
+[2026-05-11 15:39:57] [INFO] [Profile] - === PASSED: verifyOnboardingScreen | Reason: Test passed successfully. ===
+[2026-05-11 15:39:57] [INFO] [Profile] - === STARTED: clickNextButton ===
+[2026-05-11 15:39:57] [INFO] [Profile] - === PASSED: clickNextButton | Reason: Test passed successfully. ===
+[2026-05-11 15:39:57] [INFO] [Profile] - === STARTED: verifySecondaryScreen ===
+[2026-05-11 15:39:59] [INFO] [Profile] - === PASSED: verifySecondaryScreen | Reason: Test passed successfully. ===
+[2026-05-11 15:39:59] [INFO] [Profile] - === STARTED: clickNextButton2 ===
+[2026-05-11 15:40:01] [INFO] [Profile] - === PASSED: clickNextButton2 | Reason: Test passed successfully. ===
+[2026-05-11 15:40:01] [INFO] [Profile] - === STARTED: verifyThirdScreen ===
+[2026-05-11 15:40:01] [INFO] [Profile] - === PASSED: verifyThirdScreen | Reason: Test passed successfully. ===
+[2026-05-11 15:40:01] [INFO] [Profile] - === STARTED: clickNextButton3 ===
+[2026-05-11 15:40:01] [INFO] [Profile] - === PASSED: clickNextButton3 | Reason: Test passed successfully. ===
+[2026-05-11 15:40:01] [INFO] [Profile] - === STARTED: verifyFourthScreen ===
+[2026-05-11 15:40:03] [INFO] [Profile] - === PASSED: verifyFourthScreen | Reason: Test passed successfully. ===
+[2026-05-11 15:40:03] [INFO] [Profile] - === STARTED: clickNextButton4 ===
+[2026-05-11 15:40:04] [INFO] [Profile] - === PASSED: clickNextButton4 | Reason: Test passed successfully. ===
+[2026-05-11 15:40:04] [INFO] [Profile] - === STARTED: verifyLoginScreen ===
+[2026-05-11 15:40:05] [INFO] [Profile] - === PASSED: verifyLoginScreen | Reason: Test passed successfully. ===
+[2026-05-11 15:40:05] [INFO] [Profile] - === STARTED: validatecorrectuserisloggedinsuccessfully ===
+[2026-05-11 15:40:07] [INFO] [Profile] - === PASSED: validatecorrectuserisloggedinsuccessfully | Reason: Test passed successfully. ===
+[2026-05-11 15:40:07] [INFO] [Profile] - === STARTED: validatesubmitbutton ===
+[2026-05-11 15:40:51] [INFO] [Profile] - === PASSED: validatesubmitbutton | Reason: Test passed successfully. ===
+[2026-05-11 15:40:51] [INFO] [Profile] - === STARTED: Verifyprofilebutton ===
+[2026-05-11 15:43:46] [INFO] [Profile] - === PASSED: Verifyprofilebutton | Reason: Test passed successfully. ===
+[2026-05-11 15:43:46] [INFO] [Profile] - Keeping app open after execution (Debug Mode).
+[2026-05-11 15:43:46] [INFO] [TestExecution] - === TEST SUITE FINISHED: Default test ===
+[2026-05-11 15:43:46] [INFO] [TestExecution] - === TEST SUMMARY CLASS-WISE ===
+[2026-05-11 15:43:46] [INFO] [TestExecution] - Class: Profile
+[2026-05-11 15:43:46] [INFO] [TestExecution] - Passed : 12
+[2026-05-11 15:43:46] [INFO] [TestExecution] - Failed : 0
+[2026-05-11 15:43:46] [INFO] [TestExecution] - Skipped: 0
+[2026-05-11 15:43:46] [INFO] [TestExecution] - ------------------------------
+[2026-05-11 15:43:46] [INFO] [TestExecution] - === TOTAL TESTS ===
+[2026-05-11 15:43:46] [INFO] [TestExecution] - Total  : 12
+[2026-05-11 15:43:46] [INFO] [TestExecution] - Passed : 12
+[2026-05-11 15:43:46] [INFO] [TestExecution] - Failed : 0
+[2026-05-11 15:43:46] [INFO] [TestExecution] - Skipped: 0
+[2026-05-11 15:43:46] [INFO] [TestExecution] - ===================
+[2026-05-11 15:53:08] [INFO] [TestExecution] - === TEST SUITE STARTED: Default test ===
+[2026-05-11 15:53:08] [INFO] [Profile] - ===== Starting Profile Test =====
+[2026-05-11 15:53:08] [INFO] [Profile] - Initializing AndroidDriver...
+[2026-05-11 15:53:22] [INFO] [Profile] - === STARTED: verifyOnboardingScreen ===
+[2026-05-11 15:53:38] [INFO] [Profile] - === PASSED: verifyOnboardingScreen | Reason: Test passed successfully. ===
+[2026-05-11 15:53:38] [INFO] [Profile] - === STARTED: clickNextButton ===
+[2026-05-11 15:53:39] [INFO] [Profile] - === PASSED: clickNextButton | Reason: Test passed successfully. ===
+[2026-05-11 15:53:39] [INFO] [Profile] - === STARTED: verifySecondaryScreen ===
+[2026-05-11 15:53:40] [INFO] [Profile] - === PASSED: verifySecondaryScreen | Reason: Test passed successfully. ===
+[2026-05-11 15:53:40] [INFO] [Profile] - === STARTED: clickNextButton2 ===
+[2026-05-11 15:53:41] [INFO] [Profile] - === PASSED: clickNextButton2 | Reason: Test passed successfully. ===
+[2026-05-11 15:53:41] [INFO] [Profile] - === STARTED: verifyThirdScreen ===
+[2026-05-11 15:53:42] [INFO] [Profile] - === PASSED: verifyThirdScreen | Reason: Test passed successfully. ===
+[2026-05-11 15:53:42] [INFO] [Profile] - === STARTED: clickNextButton3 ===
+[2026-05-11 15:53:42] [INFO] [Profile] - === PASSED: clickNextButton3 | Reason: Test passed successfully. ===
+[2026-05-11 15:53:42] [INFO] [Profile] - === STARTED: verifyFourthScreen ===
+[2026-05-11 15:53:44] [INFO] [Profile] - === PASSED: verifyFourthScreen | Reason: Test passed successfully. ===
+[2026-05-11 15:53:44] [INFO] [Profile] - === STARTED: clickNextButton4 ===
+[2026-05-11 15:53:44] [INFO] [Profile] - === PASSED: clickNextButton4 | Reason: Test passed successfully. ===
+[2026-05-11 15:53:44] [INFO] [Profile] - === STARTED: verifyLoginScreen ===
+[2026-05-11 15:53:45] [INFO] [Profile] - === PASSED: verifyLoginScreen | Reason: Test passed successfully. ===
+[2026-05-11 15:53:45] [INFO] [Profile] - === STARTED: validatecorrectuserisloggedinsuccessfully ===
+[2026-05-11 15:53:47] [INFO] [Profile] - === PASSED: validatecorrectuserisloggedinsuccessfully | Reason: Test passed successfully. ===
+[2026-05-11 15:53:47] [INFO] [Profile] - === STARTED: validatesubmitbutton ===
+[2026-05-11 15:53:49] [INFO] [Profile] - === PASSED: validatesubmitbutton | Reason: Test passed successfully. ===
+[2026-05-11 15:53:49] [INFO] [Profile] - === STARTED: Verifyprofilebutton ===
+[2026-05-11 15:56:40] [INFO] [Profile] - === PASSED: Verifyprofilebutton | Reason: Test passed successfully. ===
+[2026-05-11 15:56:40] [INFO] [Profile] - === STARTED: validatepersonaldetails ===
+[2026-05-11 15:56:41] [INFO] [Profile] - === PASSED: validatepersonaldetails | Reason: Test passed successfully. ===
+[2026-05-11 15:56:41] [INFO] [Profile] - Keeping app open after execution (Debug Mode).
+[2026-05-11 15:56:41] [INFO] [TestExecution] - === TEST SUITE FINISHED: Default test ===
+[2026-05-11 15:56:41] [INFO] [TestExecution] - === TEST SUMMARY CLASS-WISE ===
+[2026-05-11 15:56:41] [INFO] [TestExecution] - Class: Profile
+[2026-05-11 15:56:41] [INFO] [TestExecution] - Passed : 13
+[2026-05-11 15:56:41] [INFO] [TestExecution] - Failed : 0
+[2026-05-11 15:56:41] [INFO] [TestExecution] - Skipped: 0
+[2026-05-11 15:56:41] [INFO] [TestExecution] - ------------------------------
+[2026-05-11 15:56:41] [INFO] [TestExecution] - === TOTAL TESTS ===
+[2026-05-11 15:56:41] [INFO] [TestExecution] - Total  : 13
+[2026-05-11 15:56:41] [INFO] [TestExecution] - Passed : 13
+[2026-05-11 15:56:41] [INFO] [TestExecution] - Failed : 0
+[2026-05-11 15:56:41] [INFO] [TestExecution] - Skipped: 0
+[2026-05-11 15:56:41] [INFO] [TestExecution] - ===================
