@@ -237,8 +237,6 @@ public void clickNextButton4() {
     	
     	Assert.assertTrue(profilebutton.isDisplayed(),
     			"profilebutton is not displayed");
-    	
-    	
     }
 
 @Test(priority = 13)
@@ -251,4 +249,3 @@ public void validatepersonaldetails() {
 	personaldetails.click();
   }
 };
-
